@@ -15,8 +15,8 @@ Les différentes réputations du jeu.
 
 ## **Syndicats open-world**
 
-- **qui ?** : **Cetus**, **Fortuna**, **Deimos**
-- **où ?** : Terre, Venus, Necralisk
+- **qui ?** : **Cetus**, **Fortuna**, **Entrati**
+- **où ?** : Terre, Venus, Necralisk (Deimos)
 - **comment ?** : 
     - faire des mise à prix / bounties, n'importe lesquelles
     - autres :
@@ -24,6 +24,8 @@ Les différentes réputations du jeu.
         - voir [section Farm Steel Path](https://gist.github.com/mijkami/c5789f0d6f59893d58d149f30939b26a#farm) pour plus d'infos
 
     
+--------------------
+
 
 ## **Syndicats à mini-hubs**
 

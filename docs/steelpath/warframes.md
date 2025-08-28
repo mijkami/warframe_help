@@ -1,4 +1,4 @@
-![Revenant](../assets/steelpath/RevenantPrimeFull.png){ width="185" align=right }
+![Kullervo](../assets/steelpath/KullervoFull.png){ width="160" align=right }
 
 # Warframes Steel-path
 

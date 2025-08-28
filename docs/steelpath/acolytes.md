@@ -1,4 +1,4 @@
-![Acolytes](../assets/steelpath/Acolytes.png){ width="350" align=right }
+![Acolytes](../assets/steelpath/DuellistAcolyte.png){ width="170" align=right }
 
 # ACOLYTES
 Les [acolytes](https://wiki.warframe.com/w/Acolytes) sont une part importante du Steel Path :
