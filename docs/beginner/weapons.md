@@ -1,5 +1,6 @@
+![Weapons](../assets/shared/BoltorPrime.png){ width="165" align=right }
 
-# Armes
+# Armes Débutants
 
 Liste des armes utiles / prioritaires si vous ne savez pas quoi choisir et/ou n'avez pas de coup de coeur sur ce que vous avez récolté en chemin.
 Le MR (Mastery Rank) listé correspond au niveau nécessaire pour y accéder, ce n'est pas indicatif de la puissance des armes.

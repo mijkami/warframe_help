@@ -1,3 +1,7 @@
+![Star Chart](../assets/beginner/Star_Chart.png){ width="300" align=right }
+
+# Carte Céleste
+
 La [Star Chart](https://wiki.warframe.com/w/Star_Chart). **Priorité absolue du nouveau joueur** : progresser/avancer dans sa carte céleste en débloquant chaque point de la carte.
 
 !!! note "Starchart débloquée = farm + rapide"

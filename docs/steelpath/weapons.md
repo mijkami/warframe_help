@@ -1,3 +1,7 @@
+![Weapons](../assets/shared/BoltorPrime.png){ width="170" align=right }
+
+# Armes Steelpath
+
 Se focaliser sur **un petit pool d'armes** aussi, faire le circuit steel path pour obtenir des incarnons (avec les décrets et en groupe ça se fait tôt) voire les liches pour certaines armes. Les armes incarnon du Zariman (reput) sont très bien aussi.
 
 ## **Armes conseillées**

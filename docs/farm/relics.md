@@ -11,7 +11,7 @@ Les reliques sont une ressource essentielle pour améliorer votre arsenal, les o
 
 - **vestiges du néant** pour :
     - **raffiner** d'autres reliques (augmente les chances de drops rares)
-    - fabriquer vos **clés corrompues** pour le farm de mods corrompus
+    - fabriquer vos **clés corrompues** pour le farm de [mods corrompus](plats.md/#bons-plans)
     - votre **limite maximum** de vestiges du néant dépend de votre [niveau de maîtrise](../beginner/mastery-rank.md)
     - **pensez à dépenser vos vestiges** (clés du néant, raffinage de relique) avant d'arriver au maximum pour ne rien perdre, ils ne se stockent pas au-delà de votre limite maximum
 
