@@ -61,7 +61,7 @@ hide:
 
     ---
 
-    Farming de ressources & de plats
+    Ressources - XP - crédits - endo - réputations & plats
 
     [:octicons-arrow-right-24: Farming](farm/index.md)
 

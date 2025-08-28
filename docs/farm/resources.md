@@ -1,9 +1,12 @@
 
+Identifier les bons spots, utiliser les bons outils et jouer en groupe sera plus profitable.
+
 Pour identifier les sources de [ressources](https://wiki.warframe.com/w/Resources) en jeu vous pouvez :
 
 - survoler une ressource dans un blueprint de la fonderie, le texte vous donnera des infos
 - cliquer dans la navigation sur une planète et en bas à droite accéder à l'interface d'extracteur de ressource, vous verrez les ressources basiques droppables sur la planète
 - chercher votre ressource sur le [wiki warframe](https://wiki.warframe.com), voir [Contenu](content.md) pour plus d'infos
+
 
 
 ---------------
