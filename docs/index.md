@@ -48,13 +48,13 @@ hide:
     [:octicons-arrow-right-24: Steelpath](steelpath/index.md)
 
 
--   ###:material-check:{ .lg .middle } __Checklist Hebdo__
+-   ###:fontawesome-regular-clone:{ .lg .middle } __Mods__
 
     ---
 
-    Récapitulatif offrant les meilleures récompenses
+    Comment trouver et choisir les mods adaptés
 
-    [:octicons-arrow-right-24: Checklist Hebdo](weekly-checklist.md)
+    [:octicons-arrow-right-24: Mods essentiels](mods/index.md)
 
 
 -   ###:fontawesome-regular-lemon:{ .lg .middle } __Farm__
@@ -63,16 +63,16 @@ hide:
 
     Farming de ressources & de plats
 
-    [:octicons-arrow-right-24: Farming](farm.md)
+    [:octicons-arrow-right-24: Farming](farm/index.md)
 
 
--   ###:fontawesome-regular-clone:{ .lg .middle } __Mods__
+-   ###:material-check:{ .lg .middle } __Checklist Hebdo__
 
     ---
 
-    Comment trouver et choisir les mods adaptés
+    Récapitulatif offrant les meilleures récompenses
 
-    [:octicons-arrow-right-24: Mods essentiels](mods/index.md)
+    [:octicons-arrow-right-24: Checklist Hebdo](weekly-checklist.md)
 
 
 -   ###:fontawesome-regular-address-book:{ .lg .middle } __Références__

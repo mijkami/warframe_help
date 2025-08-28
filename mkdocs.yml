@@ -29,8 +29,18 @@ nav:
     - Armes: mods/weapons.md
     - Compagnons: mods/pets.md
     - Steelpath: mods/steelpath.md
+  - Farm:
+    - farm/index.md
+    - Ressources: farm/resources.md
+    - Experience: farm/xp.md
+    - Credits: farm/credits.md
+    - Endo: farm/endo.md
+    - Reliques: farm/relics.md
+    - Syndicats: farm/syndicates.md
+    - Alertes: farm/alerts.md
+    - Autres: farm/misc.md
+    - Plats: farm/plats.md
   - Checklist hebdomadaire : weekly-checklist.md
-  - Farm: farm.md
   - Références: content.md
   - À propos: about.md
 
@@ -38,6 +48,7 @@ theme:
   name: material
   language: fr
   logo: assets/logo.png
+  favicon: assets/logo.png
   palette:
     # Dark Mode
     - scheme: slate
@@ -66,7 +77,7 @@ theme:
 extra:
   analytics:
     provider: google
-    property: G-F0XRGZX4LE
+    property: G-S6S1LDV0T3
 
 markdown_extensions:
   - attr_list

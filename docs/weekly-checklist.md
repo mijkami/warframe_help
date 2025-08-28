@@ -4,7 +4,6 @@ Contenu fomo / à faire toutes les semaines si possible :
 
 - __Relais__ :
     - Mars : chasse de relique de **Maroo** (statues pour endo ou plats)
-    - tous relais, Steel Path : visiter **Teshin** (orbiteur > syndicats > conclave > visiter) pour choper la [rotation steel path](https://wiki.warframe.com/w/The_Steel_Path#Steel_Essence) (**forma umbra** parfois), packs de reliques et packs de kuva
 
 - __Nightwave__ : 
     - menu du jeu, en bas à gauche
@@ -68,3 +67,6 @@ Contenu fomo / à faire toutes les semaines si possible :
         - semaine 6 : Burston, Nami Solo, Vasto
         - semaine 7 : Hate, Dread
         - semaine 8 : Okina, Dera, Sybaris, Sicarus
+
+- __Relais__ :
+    - tous relais, Steel Path : visiter **Teshin** (orbiteur > syndicats > conclave > visiter) pour choper la [rotation steel path](https://wiki.warframe.com/w/The_Steel_Path#Steel_Essence) (**forma umbra** parfois), packs de reliques et packs de kuva

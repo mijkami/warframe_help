@@ -148,7 +148,7 @@ Ajout des armes Tenet disponibles via [Holokeys](https://wiki.warframe.com/w/Cor
 ??? note "Liches Grineer (Kuva)"
 
       -  être MR5 minimum, avoir fait la [Guerre Intérieure](https://wiki.warframe.com/w/The_War_Within)
-      -  faire apparaitre un [Kuva Larvling](https://wiki.warframe.com/w/Kuva_Larvling) dans des missions grineer lvl 20+, de préférence en solo sur Cassini (Sedna)
+      -  faire apparaitre un [Kuva Larvling](https://wiki.warframe.com/w/Kuva_Larvling) dans des missions grineer lvl 20+, de préférence en solo sur Cassini (Saturne)
       -  les missions à effectuer sont :
          - de niveau 55 à 110 selon le niveau de votre liche
          - lieux : terre, mars, ceres, sedna, forteresse kuva (missions + [reliques requiem](https://wiki.warframe.com/w/Void_Relic#Requiem_Relics))
