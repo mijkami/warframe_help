@@ -165,7 +165,13 @@ Ajout des armes Tenet disponibles via [Holokeys](https://wiki.warframe.com/w/Cor
 ??? note "Liches Corpus (Soeurs de Parvos / Tenet)"
 
       - être MR5 minimum, avoir fait la [Guerre Intérieure](https://wiki.warframe.com/w/The_War_Within) et l'[Appel des Tempestarii](https://wiki.warframe.com/w/Call_of_the_Tempestarii)
-      - faire apparaître un [Candidat](https://wiki.warframe.com/w/Candidate) en donnant une [Couronne Granum Zenith](https://wiki.warframe.com/w/Granum_Void) à une statue de main dorée dans les vaisseaux Corpus, et battre au minimum le 1er rang. Utiliser des aoe (mesa/octavia = easy, arme aoe sur une corniche en bord de map...) ou le [Xoris](https://wiki.warframe.com/w/Xoris), aller sur Hydra (Pluton) pour obtenir des couronnes et enchainer les essais. Solo de préférence sinon le défi de la couronne devient plus exigeant.
+      - faire apparaître un [Candidat](https://wiki.warframe.com/w/Candidate)
+            - faire Hydra (Pluton), pendant la mission récupérer une [Couronne Granum Zenith](https://wiki.warframe.com/w/Granum_Void#Mechanics) sur un [Trésorier](https://wiki.warframe.com/w/Treasurer
+            - refaire Hydra (Pluton) en solo de préférence (baisse la difficulté du Granum Void)
+            - donner la couronne à une grande statue de main dorée (Golden Hand Tribute)
+            - battre au minimum le 1er rang dans le Granum Void. 
+                  - Utiliser des aoe (mesa/octavia = easy, arme aoe sur une corniche en bord de map...) 
+                  - ou le [Xoris](https://wiki.warframe.com/w/Xoris)
       -  les missions à effectuer sont :
          -  de niveau 55 à 110 selon le niveau de votre liche
          -  lieux : venux, phobos, jupiter, neptune, pluton (+forteresse kuva pour ouvrir vos [reliques requiem](https://wiki.warframe.com/w/Void_Relic#Requiem_Relics))

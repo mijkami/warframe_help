@@ -99,6 +99,27 @@ Sources principales :
 - ouvrir une relique en Steel Path donne 1 essence
 - etc...
 
+## Autres points utiles
+
+<div class="grid cards" markdown>
+
+-   :material-shield-remove:{ .lg .middle } __Armor-strip__
+
+    ---
+
+    Retirer l'armure des ennemis résistants
+
+    [:octicons-arrow-right-24: Armor-strip](armorstrip.md)
+
+-   :material-pinwheel-outline:{ .lg .middle } __Opérateur__
+
+    ---
+
+    Le spoiler-mode n'aura plus de secrets pour vous
+
+    [:octicons-arrow-right-24: Opérateur](operator.md)
+
+</div>
 
 ## Loadouts basiques
 

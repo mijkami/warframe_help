@@ -4,22 +4,25 @@
 
 Se focaliser sur un tout **petit pool de warframes** au début, de préférence avec déjà de bons outils de survie embarqués de base sans trop d'investissement.
 
-Se forcer à bien lire les descriptifs complets du kit de la frame (Arsenal>Survol Frame>Abilities : lire le passif, compétence et tous les tips).
+Se forcer à bien lire les descriptifs complets du kit de la frame (Arsenal > Survol Frame > Abilities : lire le passif, les compétences et tous les tips).
 
 Penser à rajouter un [Helminth](#helminth) de dégâts.
 
 ## FRAMES CONSEILLÉES
 La sélection est déjà réduite, pour pousser encore plus loin les **top prio / super-meta / facile** sont indiqués en **gras** :
 
-  - **Tanky** :
-    - prio (résistants dégats et status) : 
-        - sans mods spécifiques : **Dante**, Nezha, Rhino, **Revenant**, Valkyr, Trinity, **Kullervo**, Gauss, Atlas
-        - avec mods : 
-             - Lavos ([passif](https://wiki.warframe.com/w/Lavos/Abilities) + [Synth Fiber](https://wiki.warframe.com/w/Synth_Fiber) pour retirer le CD)
-    - autres (ajouter [résistance contrôle/status](#resistance-status) extérieure) :  Nova, Protea, Wisp, Baruuk, Hildryn, **Ash**, Citrine, Nyx, Yareli, Xaku, **Octavia**
-  - (bonus) :
-    - **Rush** Spy/Capture : Wukong, **Titania**, Voruna (bonus vélocité)
-    - **Platforme d'armes** : **Saryn**, **Mirage**, Volt, Oraxia
+!!! note "Prio : autonome résistance dégats & status"
+
+    <span class=big_text>**Dante**, Nezha, Rhino, **Revenant**, Valkyr, Trinity, **Kullervo**, Gauss, Atlas</span>
+
+!!! note "Très bons : résistance dégats + besoin d'ajouter une résistance status"
+    - ajouter [résistance contrôle/status](#resistance-status) extérieure :
+        - <span class=big_text>Nova, Protea, Wisp, Baruuk, Hildryn, **Ash**, Citrine, Nyx, Yareli, Xaku, **Octavia**</span>
+    - cas particulier : <span class=big_text>Lavos</span> ([passif](https://wiki.warframe.com/w/Lavos/Abilities) + [Synth Fiber](https://wiki.warframe.com/w/Synth_Fiber) pour retirer le CD) 
+
+!!! note "Choix bonus"
+    - **Rush** Spy/Capture : <span class=big_text>Wukong, **Titania**, Voruna</span> (bonus vélocité)
+    - **Platforme d'armes** : <span class=big_text>**Saryn**, **Mirage**, Volt, Oraxia</span>
     - autres : en principe toutes les frames sont viables, celles listées peuvent juste faciliter un peu l'accès au steel path et sont moins exigeantes que d'autres niveau survie/dps/modding.
 
 

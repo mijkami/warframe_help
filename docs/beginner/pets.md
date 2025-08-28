@@ -26,6 +26,7 @@
 
 Pas besoin de trop investir dedans, mais ne pas les négliger.
 Dès le début du jeu ils apportent une utilité quasi-indispensable via des mods à obtenir / maxxer d'urgence :
+
 - **aspirateur à loot** : [Vacuum](https://wiki.warframe.com/w/Vacuum) / [Fetch](https://wiki.warframe.com/w/Fetch)
 - **doubleur de loot** : [mods récupérateurs](https://wiki.warframe.com/w/Category:Retriever_Mods) sur compagnons animaux 
 - radar à objets / ennemis : [Instinct Animal](https://wiki.warframe.com/w/Animal_Instinct)

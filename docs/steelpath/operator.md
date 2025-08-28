@@ -1,7 +1,7 @@
 # Opérateur
 
 ## **Focus**
-- Unairu permet de te rendre insensible à certains contrôles (Poise, premier talent) et de te rez en Tenno (Last Gap)
+- Unairu permet de te rendre insensible à certains contrôles (Poise, premier talent) et de te rez en Tenno (Last Gasp)
 - Vazarin peut te rendre invincible (Protective Sling)
 - Zenurik pour la regen energie si besoin (trouver d'autres sources au plus vite)
 - Madurai sera essentiel plus tard (boost dégâts tenno + bonus force/vitesse cast pour frame)

@@ -3,9 +3,7 @@ Les [compagnons](https://wiki.warframe.com/w/Companion) se distinguent surtout p
 
 Ils complètent vos builds via différents bonus :
 
-- **utilitaire** : double-loot, énergie, CC
-
-??? note "Utilitaire pets : détails"
+??? note "Utilitaire pets : double-loot, énergie, CC"
 
     - **aspirateur ressources** ([Vacuum](https://wiki.warframe.com/w/Vacuum) / [Fetch](https://wiki.warframe.com/w/Fetch))
     - **Radar ennemis / ressources** ([Animal Instinct](https://wiki.warframe.com/w/Animal_Instinct) / [Primed Animal Instinct](https://wiki.warframe.com/w/Primed_Animal_Instinct)
@@ -19,9 +17,7 @@ Ils complètent vos builds via différents bonus :
     - anti-status
     - etc...
 
-- **DPS**
-
-??? note "DPS pets : détails"
+??? note "DPS pets"
 
     - DPS des compagnons en eux-mêmes
     - Buff des armes warframe : 
@@ -93,7 +89,7 @@ La base, ceux à build/utiliser en priorité. Des compagnons AoE avec des capaci
     - si possible utiliser le [Scanner de Synthèse](https://wiki.warframe.com/w/Synthesis_Scanner) avec les améliorations de vitesse et double scan (peut doubler les drops dans ce cas). Cumuler les [boosters loot](../farm/resources.md/#boosters) si possible
     - étapes spécifiques Vasca :
         - utiliser des Kavat déjà élevés précédemment
-        - les emmener la nuit, croiser des Kavat Vasca sauvages et laisse votre Kavat se faire infecter (aura rouge)
+        - les emmener la nuit sur Terre dans les Plaines d'Eidolon, croiser des Kavat Vasca sauvages et laisse votre Kavat se faire infecter (aura rouge)
         - récupérer la trace génétique de votre Kavat infesté dans l'incubateur
         - répéter pour avoir 2 traces génétiques de Vasca
         - incuber un kavat en rajoutant les 2 traces de Vasca

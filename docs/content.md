@@ -132,7 +132,7 @@ Bon ratio accessibilité / qualité (bonnes infos, vidéos courtes) :
 - [MrWarframeGuy](https://www.youtube.com/@MrWarframeGuy/videos)
 - [Akabayashi](https://www.youtube.com/@Akabayashi/videos)
 
-#### F- _ A éviter:
+#### F- _ A éviter
 - **GrindHardSquad** : copie des builds et les modifie sans comprendre, spam contenu vide
 - **MHBlacky** : bonne présentation mais qualité inconsistante niveau builds
 - **Pupsker** : comme grindhard, du slop en volume et peu de qualité, fait même des stream afk pour les drops...

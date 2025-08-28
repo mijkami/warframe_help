@@ -38,3 +38,7 @@
 [data-md-color-scheme="smooth-default"] .md-nav__button.md-logo img {
     filter: sepia(100%) saturate(75%) hue-rotate(150deg) brightness(90%);
 }
+
+.big_text {
+  font-size:  18px;
+}

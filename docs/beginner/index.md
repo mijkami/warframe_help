@@ -2,22 +2,6 @@
 
 <div class="grid cards" markdown>
 
--   :material-compass:{ .lg .middle } __Carte Céleste__
-
-    ---
-
-    Objectif principal : à avancer
-
-    [:octicons-arrow-right-24: Carte Céleste](starchart.md)
-
--   :fontawesome-regular-message:{ .lg .middle } __Quêtes principales__
-
-    ---
-
-    A avancer en parallèle
-
-    [:octicons-arrow-right-24: Quêtes](quests.md)
-
 -   :fontawesome-regular-user:{ .lg .middle } __Warframes__
 
     ---
@@ -33,6 +17,23 @@
     Choisir vos premières armes
 
     [:octicons-arrow-right-24: Armes](weapons.md)
+
+-   :material-compass:{ .lg .middle } __Carte Céleste__
+
+    ---
+
+    Objectif principal : à avancer
+
+    [:octicons-arrow-right-24: Carte Céleste](starchart.md)
+
+-   :material-script-outline:{ .lg .middle } __Quêtes principales__
+
+    ---
+
+    A avancer en parallèle
+
+    [:octicons-arrow-right-24: Quêtes](quests.md)
+
 
 -   :material-star:{ .lg .middle } __Rangs de Maîtrise__
 
@@ -82,3 +83,46 @@ Il est aussi possible de farmer encore plus pour échanger de la monnaie premium
     - [Steam](https://store.steampowered.com/app/230410/Warframe/)
     - [Client officiel](https://www.warframe.com/download)
     - dispo sur PS, Xbox, Switch, Mobile
+
+-----------------
+
+## Autres points utiles
+
+
+<div class="grid cards" markdown>
+
+-   :material-dog:{ .lg .middle } __Compagnons__
+
+    ---
+
+    Obtenir vos premiers compagnons
+
+    [:octicons-arrow-right-24: Compagnons](pets.md)
+
+-   :material-run-fast:{ .lg .middle } __Missions__
+
+    ---
+
+    Être à l'aise dans toutes les missions
+
+    [:octicons-arrow-right-24: Missions](missions.md)
+    
+-   :material-cogs:{ .lg .middle } __Réglages__
+
+    ---
+
+    Régler le jeu pour un comfort optimal
+
+    [:octicons-arrow-right-24: Réglages](settings.md)
+
+-   :material-archive-outline:{ .lg .middle } __Autres__
+
+    ---
+
+    Infos diverses non-classés
+
+    [:octicons-arrow-right-24: Quêtes](misc.md)
+
+
+
+</div>
