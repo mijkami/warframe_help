@@ -47,9 +47,18 @@ La base, ceux à build/utiliser en priorité. Des compagnons AoE avec des capaci
     - envoie du viral partout ([Viral Quills](https://wiki.warframe.com/w/Viral_Quills) / [Panzer Devolution](https://wiki.warframe.com/w/Panzer_Devolution))
     - empêche parfois de mourir ([Martyr Simbiosis](https://wiki.warframe.com/w/Martyr_Symbiosis))
     - compagnon animal donc peut utiliser les mods "[Récupérateur / Retriever](https://wiki.warframe.com/w/Category:Retriever_Mods)" pour booster ton farm
-??? note "Panzer : obtention"
-    lorem
+
+??? note "Acquisition"
+    - améliorer votre incubateur avec [le Segment d'Amélioration Kavat](https://wiki.warframe.com/w/Orbiter_Segments#Kavat_Incubator_Upgrade_Segment) (blueprint dans le dojo en labo Tenno ou drop en mission grineer). Nécessite un [Crystal d'Argon](https://wiki.warframe.com/w/Argon_Crystal) qui se droppe uniquement dans le [Néant](https://wiki.warframe.com/w/Argon_Crystal) et 60 000 plaques d'alliages, voir [Ressources](../farm/resources.md) pour les bons spots
+    - les codes génétiques seront un facteur limitant. 
+    - le meilleur endroit pour scanner des kavats pour en obtenir est la 2eme étape de la [quête d'Inaros](https://wiki.warframe.com/w/Sands_of_Inaros) faisable une seule fois
+    - autre lieu de farm : Formido sur Deimos (Sabotage)
+    - prévoir un contrôle qui ne fait pas de dégats et qui immobilise (flèche d'Ivara, 2 d'Equinox mode nuit)
+    - si possible utiliser le [Scanner de Synthèse](https://wiki.warframe.com/w/Synthesis_Scanner) avec les améliorations de vitesse et double scan (peut doubler les drops dans ce cas). Cumuler les [boosters loot](../farm/resources.md/#boosters) si possible
+    - de base une chance sur 2 d'avoir un Smeeta, sinon vous aurez un [Adarza](https://wiki.warframe.com/w/Adarza_Kavat) orienté crits. Vous pouvez obtenir 2 [Codes génétiques](https://wiki.warframe.com/w/Genetic_Code_Template) de Smeeta d'un autre joueur (trade ou vente) pour garantir le Smeeta mais ce n'est pas du tout nécessaire
+
 ??? note "Panzer : build"
+    lorem
 
 ### **Diriga**
 ![Diriga](../assets/steelpath/Diriga.webp){ width="120" align=right }
@@ -63,8 +72,10 @@ La base, ceux à build/utiliser en priorité. Des compagnons AoE avec des capaci
         - ou juste un Verglas viral/feu pour exploser les ennemis (ou nuke une salle avec Contagious + Manifold + Momentous Bond)
 
 ??? note "Diriga : obtention"
-    lorem
+    Achetable pour des crédits dans le marché de votre orbiteur.
+
 ??? note "Diriga : build"
+    lorem
 
 ### **Kavat Vasca**
 ![Kavat Vasca](../assets/steelpath/VascaKavat.webp){ width="120" align=right }
@@ -75,9 +86,15 @@ La base, ceux à build/utiliser en priorité. Des compagnons AoE avec des capaci
     - accès mods [Récupérateurs](https://wiki.warframe.com/w/Category:Retriever_Mods)
     - accès mod Kavat [Swipe](https://wiki.warframe.com/w/Swipe) pour un peu d'aoe : + de dps & compatibilité avec [Synth Deconstruct](https://wiki.warframe.com/w/Synth_Deconstruct)
   
-??? note "Vasca : obtention"
-    lorem
+??? note "Acquisition"
+    - aller sur [Cambion Drift](https://wiki.warframe.com/w/Cambion_Drift) sur [Deimos](https://wiki.warframe.com/w/Deimos) pendant la période Fass (cycle jour/nuit Deimos)
+    - acheter un [Tranq rifle](https://wiki.warframe.com/w/Tranq_Rifle) chez [Le Business](https://wiki.warframe.com/w/The_Business) ou le [Fils](https://wiki.warframe.com/w/Son), l'équiper dans votre roue des consommables dans votre Arsenal (2ème onglet en haut à gauche)
+    - chercher et attraper via le [conservation](https://wiki.warframe.com/w/Conservation) un [Panzer affaibli](https://wiki.warframe.com/w/Vulpaphyla_(Conservation)). Pour être affaibli le Panzer doit avoir été attaqué par un infesté. Vous pouvez faire des mise à prix, vous en aurez parfois déjà affaibli capturables sans effort... sinon chercher activement via le zoom du Tranq Rifle qui indique les ennemis proches (bip + flèches)
+    - ramener votre Panzer affaibli pour Revification au [Fils](https://wiki.warframe.com/w/Son) dans le Necralisk avec un Antigène et un Mutagène de votre choix (patrons vendus par le Fils, à fabriquer dans votre Forge)
+
+
 ??? note "Vasca : build"
+    lorem
 
 -------------
 

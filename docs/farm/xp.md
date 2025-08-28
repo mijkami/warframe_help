@@ -1,6 +1,6 @@
 ![Affinité](../assets/farm/AffinityBooster.png){ width="125" align=right }
 
-# Éxperience
+# Expérience
 
 ## **Gains d'XP**
 
