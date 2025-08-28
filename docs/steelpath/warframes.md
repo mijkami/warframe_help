@@ -6,7 +6,7 @@ Se focaliser sur un tout **petit pool de warframes** au début, de préférence 
 
 Se forcer à bien lire les descriptifs complets du kit de la frame (Arsenal > Survol Frame > Abilities : lire le passif, les compétences et tous les tips).
 
-Penser à rajouter un [Helminth](#helminth) de dégâts.
+Envisager d'ajouter un [Helminth](#helminth) de dégâts ou de survie.
 
 ## FRAMES CONSEILLÉES
 La sélection est déjà réduite, pour pousser encore plus loin les **top prio / super-meta / facile** sont indiqués en **gras** :

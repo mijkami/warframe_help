@@ -2,7 +2,9 @@
 
 # Armes Steelpath
 
-Se focaliser sur **un petit pool d'armes** aussi, faire le circuit steel path pour obtenir des incarnons (avec les décrets et en groupe ça se fait tôt) voire les liches pour certaines armes. Les armes incarnon du Zariman (reput) sont très bien aussi.
+Se focaliser sur **un petit pool d'armes** bien moddées. 
+
+Faire le [circuit steel path](../weekly-checklist.md) pour obtenir des [incarnons](#incarnons) (avec les décrets et en groupe ça se fait tôt), voire les [liches](#choix-des-armes-de-liche) pour certaines armes. En dehors du circuit, les armes incarnon du [Zariman](../farm/syndicates.md/#syndicats-a-mini-hubs) sont très bien aussi.
 
 ## **Armes conseillées**
 Classées par Mastery Rank (MR) pour une meilleure lisibilité. N'indique pas la puissance mais juste le niveau permettant d'y accéder.
