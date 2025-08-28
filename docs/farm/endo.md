@@ -16,7 +16,7 @@ Sert à monter les [mods](../mods/index.md).
 
 ## **Confirmés**
 
-- arènes sur Sedna (builds sur [contenu discord](content.md))
+- arènes sur Sedna (builds sur [contenu discord](../content.md/#discord))
 - bounties haut niveau sur Deimos/Zariman/Entrati/1999
 - Railjack
 

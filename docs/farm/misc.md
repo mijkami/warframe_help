@@ -1,6 +1,6 @@
 
 ## **Autres farms**
-Checker [la catégorie contenu](content.md) et préparer des builds pour :
+Checker [la catégorie références](../content.md) et préparer des builds pour :
 
 - farm Défense
 - farm Arbitrage

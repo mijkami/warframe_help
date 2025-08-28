@@ -12,7 +12,7 @@ Les reliques sont une ressource essentielle pour améliorer votre arsenal, les o
 - **vestiges du néant** pour :
     - **raffiner** d'autres reliques (augmente les chances de drops rares)
     - fabriquer vos **clés corrompues** pour le farm de mods corrompus
-    - votre **limite maximum** de vestiges du néant dépend de votre [niveau de maîtrise](beginner/mastery-rank.md)
+    - votre **limite maximum** de vestiges du néant dépend de votre [niveau de maîtrise](../beginner/mastery-rank.md)
     - **pensez à dépenser vos vestiges** (clés du néant, raffinage de relique) avant d'arriver au maximum pour ne rien perdre, ils ne se stockent pas au-delà de votre limite maximum
 
 ![Rhino Prime](../assets/farm/DERhinoPrime2.png){ width="75" align=left }
@@ -21,7 +21,7 @@ Les reliques sont une ressource essentielle pour améliorer votre arsenal, les o
     - gardez ceux qui vous intéressent
     - doublons, surplus :
         - les convertir en *ducats* chez le Baro, acheter mods primes & autres
-        - les vendre pour des [Plats](#plats), de préférence en lots complets (ex : les 4 pièces d'une frame en une vente)
+        - les vendre pour des [Plats](plats.md), de préférence en lots complets (ex : les 4 pièces d'une frame en une vente)
 
 ![Forma](../assets/farm/Forma.png){ width="75" align=left }
 
@@ -43,7 +43,7 @@ Les reliques sont une ressource essentielle pour améliorer votre arsenal, les o
         - Meso / Neo : Ukko dans le Néant
         - Axi : Apollo sur Lua
     - trouver des groupes relique :
-        -  le discord Burner ([cf contenu/Discord](content.md/#discord))
+        -  le discord Burner ([cf contenu/Discord](../content.md/#discord))
         -  le canal public pour ouvrir des reliques en groupe (jeu en anglais, serveur EU ou amérique)
     - penser à ne jamais être capé en traces du néant (monter en rad / flawless un stock en continu), sinon les drops de nouvelles traces/réactifs seront perdus
 
@@ -86,10 +86,10 @@ Certaines reliques sont plus intéressantes que d'autres, un mix entre la raret�
     - **dépenser de l'[Aya](https://wiki.warframe.com/w/Aya)** pour acheter dans la boutique de [Résurgence Prime](https://wiki.warframe.com/w/Prime_Resurgence) :
         - accès rapide boutique Aya : orbiteur > market > menu déroulant en haut à gauche > avant-dernière option "Résurgence Prime", trier par reliques
         - gagner de l'Aya : 
-            - plus ou moins mêmes sources que les [reliques](#sources-de-reliques)
+            - plus ou moins mêmes sources que les [reliques](relics.md/#obtenir-des-reliques)
             - mises à prix en open-world, plus ou moins rentables, dont 2 méthodes en particulier :
             - [Brute Force](https://www.youtube.com/watch?v=rfV_KoJGvPI) sur Deimos (le + accessible), à faire en solo ou à 2 (certains objectifs deviennent trop longs à 3 et 4 joueurs)
-            - [Bounties opti sur Cetus](https://www.youtube.com/watch?v=eovwUJXV6Ow) sur Cetus (+ rentable mais inaccessible pour un nouveau joueur, à réserver en groupe pour [plus tard](content.md/#discord))
+            - [Bounties opti sur Cetus](https://www.youtube.com/watch?v=eovwUJXV6Ow) sur Cetus (+ rentable mais inaccessible pour un nouveau joueur, à réserver en groupe pour [plus tard](../content.md/#discord))
 
 
 ---------------

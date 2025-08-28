@@ -47,7 +47,7 @@ Une fois une frame ou une arme sélectionnée vous pouvez choisir d'éditer leur
 Sur l'écran d'édition, vous pouvez voir la capacité en haut à gauche, indiquant le "poids" des mods que vous pouvez équiper 
 
 - ex : capacité 10 = 1 mod à 10 de capacité OU 2 mods à 5 de capacité
-- tous les objets équipables (frames, arme, compagnon, archwing etc) occupent un emplacement** limité. Vous pouvez en acheter plus, mais cela coûtera des [platinum](../farm.md/#plats)
+- tous les objets équipables (frames, arme, compagnon, archwing etc) occupent un emplacement** limité. Vous pouvez en acheter plus, mais cela coûtera des [platinum](../farm/plats.md)
 - la capacité de base d'un équipement augmente avec votre niveau de [maîtrise](../beginner/mastery-rank.md) de compte, jouer avec un objet donné augmente sa maîtrise et sa capacité aussi
 - On peut augmenter rapidement la capacité d'une frame ou d'une arme en équipant respectivement une aura (ex : [Dreamer's Bond]()) et une posture (ex : [Swooping Falcon](https://wiki.warframe.com/w/Swooping_Falcon) pour Skana)
 - Le coût en crédits et endo pour monter les mods est exponentiel, il dépend de :
@@ -63,7 +63,7 @@ Sur l'écran d'édition, vous pouvez voir la capacité en haut à gauche, indiqu
     Monter vos mods est la B.A.BA pour devenir plus résistant et faire + de dégâts.
 
 - **fusionner** (monter de rang) vos mods rend vos mods encore plus efficaces : il vaut mieux 2 mods montés qui prennent 15 de capacité et beaucoup de stats que 6 mods qui en occupent autant en ne donnant quasi rien.
-- **nécessite de l'endo et des crédits** pour monter vos mods (cf [Farm](../farm.md)), le prix d'upgrade dépend
+- **nécessite de l'endo et des crédits** pour monter vos mods (cf [Farm](../farm/index.md)), le prix d'upgrade dépend
     - de la **qualité** des mods. Plus ils sont "brillants" (bronze > silver > gold > primed/galvanisé/archonte), plus cela coûtera cher à monter
     - du nombre de **rangs** atteint : plus on avance de rangs, plus le coût d'upgrade par rang est cher
         - il vaudra mieux dans un premier temps éviter les rangs maximum et monter plusieurs mods à un rang intermédiaire pour atteindre un bon compromis. Ex : Monter 3 mods au rang 7/10 au lieu d'un seul à 10/10.

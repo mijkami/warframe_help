@@ -9,7 +9,7 @@
 - fabriquez le plus d'armes et de warframes possibles pour monter en Maîtrise, vous pourrez jeter les plus facile à avoir
 - ne jetez pas directement vos frames non-prime, farmez d'abord l'[helminth](https://wiki.warframe.com/w/Helminth_Segment) sur [Deimos](https://wiki.warframe.com/w/Son), vous aurez besoin de lui donner vos frames non-prime
 - vous pouvez construire un objet à l'avance et le récupérer dans la fonderie bien plus tard
-- consultez [Farm](../farm.md) pour les ressources et l'exp nécessaire pour vos nouvelles frames & armes
+- consultez [Farm](../farm/index.md) pour les ressources et l'exp nécessaire pour vos nouvelles frames & armes
 
 Débloque principalement :
 

@@ -22,7 +22,7 @@ Tous les boosters de crédits se cumule, ne vous privez pas et utilisez-en un ma
     - echap > equipement > inventaire. Menu déroulant à droite, sélectionner "doublons". Vendre les parties de frame en doublon que vous avez qui ne sont pas échangeables (ex : "Harrow chassis", vous en choperez plein en permanence)
     - /!\ vente de mods : ne JAMAIS vendre vos mods pour des crédits, le gain est limité et il faut toujours prioriser l'endo quand on détruit des mods en doublons
 - farm Dark Sector: maps avec des boosts supplémentaires, un par planète (ex :  Gabii sur Ceres )
-- farm [mission longue](beginner/starchart.md)
+- farm [mission longue](../beginner/starchart.md)
 - Index sur Neptune, partir en groupe / multi au début pour être accompagné
 - Railjack : possibilité d'être accompagné en mission railjack dès que vous avez un archwing, bonne source de crédits/ressources. Proxima de la Terre et de Venus sont assez accessibles.
 

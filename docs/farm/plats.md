@@ -11,7 +11,7 @@ Avoir un booster doubleur de ressources aide pour certaines farm, comme l'ouvert
 
     Sert surtout pour les emplacements au début du jeu, le reste viendra plus tard (cosmétiques, trade)
     Le jeu vous offre quelques plats à la création de votre compte, à dépenser dans la boutique : il faut les dépenser dans des emplacements en priorité.
-    Les plats viendront d'échanges avec d'autres joueurs, la quantité d'échanges par jours est égale à votre [rang de maîtrise](beginner/mastery-rank.md).
+    Les plats viendront d'échanges avec d'autres joueurs, la quantité d'échanges par jours est égale à votre [rang de maîtrise](../beginner/mastery-rank.md).
 
 !!! note "Trouver / identifier une méthode de farm"
 
@@ -34,7 +34,7 @@ Avoir un booster doubleur de ressources aide pour certaines farm, comme l'ouvert
 Les échanges finaux après contact se feront de préférence dans un dojo à un pad d'échanges. En dernier recours vous pouvez passer par le bazar de Maroo et utiliser l'emote d'échange.
 
 
-Quelques méthodes / sources, pour le reste checker [Contenu](content.md) :
+Quelques méthodes / sources, pour le reste checker [Références](../content.md) :
 
 - ouvrir des [reliques](relics.md)
 - ??? note "mods apothiques"

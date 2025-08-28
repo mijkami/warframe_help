@@ -8,7 +8,7 @@ Pour identifier les sources de [ressources](https://wiki.warframe.com/w/Resource
 
 - survoler une ressource dans un blueprint de la fonderie, le texte vous donnera des infos
 - cliquer dans la navigation sur une planète et en bas à droite accéder à l'interface d'extracteur de ressource, vous verrez les ressources basiques droppables sur la planète
-- chercher votre ressource sur le [wiki warframe](https://wiki.warframe.com), voir [Contenu](content.md) pour plus d'infos
+- chercher votre ressource sur le [wiki warframe](https://wiki.warframe.com), voir [Références](../content.md) pour plus d'infos
 
 
 
@@ -16,11 +16,11 @@ Pour identifier les sources de [ressources](https://wiki.warframe.com/w/Resource
 
 ## **Boosters**
 Très importants, cumuler des **boosters** permettra d'obtenir beaucoup plus de ressources dans un même laps de temps.
-Le  [booster de ressources](https://wiki.warframe.com/w/Resource_Booster) (orange) est le plus important, les autres ne valent pas le coût en plat à moins que vous ayez déjà une bonne entrée de [plats](#plats), ce qui viendra plus tard.
+Le  [booster de ressources](https://wiki.warframe.com/w/Resource_Booster) (orange) est le plus important, les autres ne valent pas le coût en plat à moins que vous ayez déjà une bonne entrée de [plats](plats.md), ce qui viendra plus tard.
 
 Source de booster de ressources :
 
-- [warframes de farm](beginner/warframes.md/#frames-de-farm)
+- [warframes de farm](../beginner/warframes.md/#frames-de-farm)
 - [compagnons](../beginner/pets.md)
 - market : [booster de ressources](https://wiki.warframe.com/w/Resource_Booster). Coûte des plats, après les emplacements est un achat prioritaire qui vous permettra d'accélérer votre farm de ressources ET votre farm de plats (cercle virtueux). Les boosters de 30j sont les plus rentables en coût/journée effective.
 - [reliques endless](https://wiki.warframe.com/w/Void_Fissure#Endless_Missions) (survie, défense...) : cumule jusqu'à +100% chances de drops ressources
@@ -122,7 +122,7 @@ Chaque planète a un node "Dark Sector" avec un une icone différente et un boos
 
 ### **Open-world**
 Pêche, minage & conservation : sources de poissons, minerais & jetons.
-Ne pas oublier votre animal pour le [double-drop](#ressources-boosters). Une frame tanky anti-CC (rhino) voire invisible (Ivara, longue durée) rendra l'expérience plus agréable.
+Ne pas oublier votre animal pour le [double-drop](resources.md/#boosters). Une frame tanky anti-CC (rhino) voire invisible (Ivara, longue durée) rendra l'expérience plus agréable.
 
 #### Pêche
 !!! note "Pêche : détails"

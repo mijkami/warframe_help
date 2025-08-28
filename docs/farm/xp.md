@@ -27,7 +27,7 @@ Top des sources d'XP :
 Le booster d'XP de la boutique n'est pas nécessaire mais appréciable.
 Plus tard vous pourrez aussi obtenir un [Kavat Smeeta](https://wiki.warframe.com/w/Smeeta_Kavat) qui donne un buff 300% XP via son mod [Charm](https://wiki.warframe.com/w/Charm)
 
-Voir [compagnons](beginner/pets.md) pour plus d'infos.
+Voir [compagnons](../beginner/pets.md) pour plus d'infos.
 
 -------------------------
 
