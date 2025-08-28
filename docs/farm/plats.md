@@ -1,6 +1,8 @@
+![Platines](../assets/farm/PlatinumLarge.png){ width="90" align=right }
 
+# Platines
 
-## **Plats**
+## **Infos générales**
 
 Principe de base = choper des objets/mods/reliques rares le plus rapidement possible. 
 Avoir un booster doubleur de ressources aide pour certaines farm, comme l'ouverture de reliques ou le farm de plantes pour les apothiques.
@@ -18,7 +20,7 @@ Avoir un booster doubleur de ressources aide pour certaines farm, comme l'ouvert
     - consulter les listes communautaires [1](https://www.youtube.com/results?search_query=warframe%20plat), [2](https://www.youtube.com/watch?v=6flivfmd-JU), [3](https://www.youtube.com/watch?v=Pikxp0npJSM), [4](https://www.youtube.com/watch?v=Tgw8swKlC3s), [5](https://www.youtube.com/watch?v=5ryAfjOxp7E)
 
 
-Lieux d'échanges :
+## **Lieux d'échanges**
 
 - [warframe.market](https://warframe.market) : a l'avantage de permettre de vendre très vite et de continuer vos missions le temps de trouver un vendeur qui vous enverra un message
 - ??? note "onglet "échanges" dans le chat du jeu"
@@ -34,10 +36,7 @@ Les échanges finaux après contact se feront de préférence dans un dojo à un
 
 Quelques méthodes / sources, pour le reste checker [Contenu](content.md) :
 
-- ouvrir des [reliques](#reliques)
-    - fissure lith : Echo de Bifrost
-    - fissure requiem : [Pago Spy Kuva](https://www.youtube.com/watch?app=desktop&v=eKv-KUJmtG8)
-    - fissure Axi/Neo : capture/exter dans le Néant (Hepit, Ukko, Oxomoco, Teshub)
+- ouvrir des [reliques](relics.md)
 - ??? note "mods apothiques"
     - faire la [quête de Titania](https://wiki.warframe.com/w/The_Silver_Grove) pour obtenir les blueprints d'apothiques
     - farmer les plantes qui vous intéressent (voir [ingrédients apothiques](https://wiki.warframe.com/w/Apothic))
@@ -52,7 +51,6 @@ Quelques méthodes / sources, pour le reste checker [Contenu](content.md) :
     - former un groupe, 1 Khora + 3 Nekros de préférence
     - run Mantle (Terre) pour cherche le [Silver Grove Shrine](https://wiki.warframe.com/w/Silver_Grove_Shrine) : le lotus parle quand vous rentrez dans le bon tileset
     - utiliser vos buff loot et ouvrir 2 apothiques chacun
-    
 - ??? note "mods corrompus"
     - check [page wiki](https://wiki.warframe.com/w/Category:Corrupted_Mods) et [video explicative](https://www.youtube.com/watch?v=f_g2lb_jTeQ)
     - vous en aurez besoin pour vos builds

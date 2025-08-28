@@ -1,3 +1,6 @@
+![Ressources](../assets/farm/Resource_Orange.png){ width="125" align=right }
+
+# Ressources
 
 Identifier les bons spots, utiliser les bons outils et jouer en groupe sera plus profitable.
 
@@ -11,14 +14,14 @@ Pour identifier les sources de [ressources](https://wiki.warframe.com/w/Resource
 
 ---------------
 
-## **Ressources : Boosters**
+## **Boosters**
 Très importants, cumuler des **boosters** permettra d'obtenir beaucoup plus de ressources dans un même laps de temps.
 Le  [booster de ressources](https://wiki.warframe.com/w/Resource_Booster) (orange) est le plus important, les autres ne valent pas le coût en plat à moins que vous ayez déjà une bonne entrée de [plats](#plats), ce qui viendra plus tard.
 
 Source de booster de ressources :
 
 - [warframes de farm](beginner/warframes.md/#frames-de-farm)
-- [compagnons](https://gist.github.com/mijkami/71551f1d06959ccaef305571477fb9d8#compagnons)
+- [compagnons](../beginner/pets.md)
 - market : [booster de ressources](https://wiki.warframe.com/w/Resource_Booster). Coûte des plats, après les emplacements est un achat prioritaire qui vous permettra d'accélérer votre farm de ressources ET votre farm de plats (cercle virtueux). Les boosters de 30j sont les plus rentables en coût/journée effective.
 - [reliques endless](https://wiki.warframe.com/w/Void_Fissure#Endless_Missions) (survie, défense...) : cumule jusqu'à +100% chances de drops ressources
 - booster de bénédiction d'un MR 30+ en relai (aller en relai pour afk / faire une pause et choper quelques bénés)
@@ -28,12 +31,12 @@ Si vous n'avez aucune booster ne desespérez pas. Le plus important est de savoi
 ---------------
 
 
-## **Ressources : Spots**
+## **Spots de ressources**
 On ne verra que les ressources communes du début du jeu, pour plus de détail voir le [wiki, tableau des ressources](https://wiki.warframe.com/w/Resources#Resources_By_Planet).
 L'interface d'extracteurs en bas à droite indique les ressources de la planète, par ordre d'abondance.
 Chaque planète a un node "Dark Sector" avec un une icone différente et un booster de drops indiqué.
 
-### **Ressources communes**
+### **Communes**
 - _Nano Spores_ :
     - **early** : Deimos (mise à prix, Hyf (def), Terrorem (Survie))
     - Piscinas, Saturne
@@ -50,7 +53,7 @@ Chaque planète a un node "Dark Sector" avec un une icone différente et un boos
     - **early** : Terre / Mercure, partout
     - Survie, Néant
 
-### **Ressources inhabituelles**
+### **Inhabituelles**
 - _Circuits_ :
     - **early** : Venus, partout
     - Gabii, Ceres
@@ -71,7 +74,7 @@ Chaque planète a un node "Dark Sector" avec un une icone différente et un boos
     - **early** : Terre, partout
     - Survies, Néant
 
-### **Ressources rares** 
+### **Rares** 
 !!! note "2 façon de farm les ressources rares"
     - **drop des ennemis** : favoriser des cartes denses, Défense/Survie en SteelPath ou à 4 joueurs en normal
     - **drops des caisses spéciales à casser** : 

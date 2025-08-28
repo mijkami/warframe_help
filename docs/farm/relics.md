@@ -1,17 +1,37 @@
+![Relique Lith](../assets/farm/LithRelicIntact.png){ width="135" align=right }
+
+# Reliques
+
+Les reliques sont une ressource essentielle pour améliorer votre arsenal, les ouvrir est une activité importante pour beaucoup de joueurs !
+
+
 ## Ressources obtenues
 
-- **vestiges du néant** pour :
-    - rafiner d'autres reliques (augmente les chances de drops rares)
-    - fabriquer vos clés corrompues pour le farm de mods corrompus
-- **schémas de forma** qui doivent être craftés toutes les 24h, permettra de booster votre matériel : essentiel
-- **plans d'objets "prime"** plus puissants et rares
-    - gardez ceux qui vous intéressent
-    - surplus
-        - le convertir en *ducats* chez le Baro, acheter mods primes & autres
-        - le vendre pour des [Plats](#plats), de préférence en lots complets (exemple : les 4 pièces d'une frame)
+![Void trace](../assets/farm/VoidTraces.png){ width="75" align=left }
 
-Votre pool maximum de vestiges du néant dépend de votre [niveau de maîtrise](beginner/mastery-rank.md).
-Les vestiges ne se stockent plus une fois atteint votre maximum, pensez à dépenser vos vestiges (clés du néant, raffinage de relique) avant d'arriver au maximum pour ne rien perdre.
+- **vestiges du néant** pour :
+    - **raffiner** d'autres reliques (augmente les chances de drops rares)
+    - fabriquer vos **clés corrompues** pour le farm de mods corrompus
+    - votre **limite maximum** de vestiges du néant dépend de votre [niveau de maîtrise](beginner/mastery-rank.md)
+    - **pensez à dépenser vos vestiges** (clés du néant, raffinage de relique) avant d'arriver au maximum pour ne rien perdre, ils ne se stockent pas au-delà de votre limite maximum
+
+![Rhino Prime](../assets/farm/DERhinoPrime2.png){ width="75" align=left }
+
+- **plans d'objets "prime"** plus puissants et rares :
+    - gardez ceux qui vous intéressent
+    - doublons, surplus :
+        - les convertir en *ducats* chez le Baro, acheter mods primes & autres
+        - les vendre pour des [Plats](#plats), de préférence en lots complets (ex : les 4 pièces d'une frame en une vente)
+
+![Forma](../assets/farm/Forma.png){ width="75" align=left }
+
+- **schémas de forma** :
+    - doivent être fabriqués **toutes les 24h**
+    - permettra de **booster votre matériel** en donnant plus de place de mods : vous n'en aurez jamais assez, toujours avoir un forma en cours de construction. Utiliser l'app compagnon si besoin
+
+
+
+
 
 ??? note "Stratégie ouverture de reliques"
 
@@ -30,7 +50,7 @@ Les vestiges ne se stockent plus une fois atteint votre maximum, pensez à dépe
 
 ---------------
 
-## **Sources de reliques**
+## **Obtenir des reliques**
 
 - **Sources communes :**
     - espionnage
@@ -42,11 +62,9 @@ Les vestiges ne se stockent plus une fois atteint votre maximum, pensez à dépe
     - Axi : Apollo sur Lua
 - **Packs de reliques :** 
 On peut acheter chez certains syndicats des packs de 3 reliques aléatoire, très bonne source. La réputation peut être stockée en vue de sorties de nouvelles frames prime.
-
     - [syndicats de base](syndicates.md/#syndicats-de-base)
     - [syndicats open-world](syndicates.md/#syndicats-open-world)
     - boutique de Teshin en relais ([Steelpath - essences d'acier](../steelpath/index.md/#essence-dacier))
-
 
 ---------------
 
@@ -72,27 +90,74 @@ Certaines reliques sont plus intéressantes que d'autres, un mix entre la raret�
             - mises à prix en open-world, plus ou moins rentables, dont 2 méthodes en particulier :
             - [Brute Force](https://www.youtube.com/watch?v=rfV_KoJGvPI) sur Deimos (le + accessible), à faire en solo ou à 2 (certains objectifs deviennent trop longs à 3 et 4 joueurs)
             - [Bounties opti sur Cetus](https://www.youtube.com/watch?v=eovwUJXV6Ow) sur Cetus (+ rentable mais inaccessible pour un nouveau joueur, à réserver en groupe pour [plus tard](content.md/#discord))
-- **ouvrir des reliques** : 2 types de farm
-    - **pick-up pur / random** : ouvrir des reliques aléatoires sans faire de groupe à l'avance
-        - permet de bénéficier aléatoirement de drops d'alliés
-        - permet de monter votre stock de traces du néant pour monter vos "bonnes" reliques
-        - privilégier les missions rapides (capture, exter, sabotage)
-    - **farmer en groupe organisé** où chacun amène la même relique pour augmenter les chances de drop spécifiques
-        - passer par un discord communautaire
-        - ??? note "passer par le canal de recrutement du jeu"
-            - mettre le jeu en anglais (plus de monde) via le launcher
-            - régler les paramètres pour les serveurs états-uniens (plus de monde)
-            - utiliser le canal de recrutement
-            - cliquer sur la loupe en haut à gauche du canal : trier par les noms de reliques vous intéressent (réduit le spam)
-            - utiliser les liens d'objets in-game (ouvrir les crochets [ ], commencer à écrire le nom, utiliser l'auto-complétion)
-            - éviter les reliques impeccables/flawless vu le peu de volume disponible (soit intactes pour les loots bronze, soit radiante pour les loots argent/or)
-            - types de messages :
-            - **H [Relic Axi V8] 2/4 rad** : veut dire **H**ost (hôte/créé un groupe) pour la relique Axi V8, déjà 2 joueurs sur 4, relique radiante pour tous ==> vous lui envoyez un message "**+1**" / "**inv**" pour être invité
-            - **L [Relic Axi V8]** ou **LF [Relic Axi V8]** : veut dire **L** looking for group, joueur seul cherchant un groupe. Parfois on peut être contacté pour créer un groupe quand on envoie ce genre de message
-            - pensez à garder le menu ouvert (echap) pour garder un oeil en haut à gauche sur les reliques équipées et être sûr que tous les jours ont la bonne relique (et intacte/radiante pour tous selon), sinon refaites un groupe 
+
 
 ---------------
 
+
 ## **Ouvrir des reliques**
 
-Voir [Farm - reliques](../farm/plats.md).
+### **Méthode : comment faire**
+
+2 types de farm :
+
+- **pick-up pur / random** : ouvrir des reliques aléatoires sans faire de groupe à l'avance
+    - permet de bénéficier aléatoirement de drops d'alliés
+    - permet de monter votre stock de traces du néant pour monter vos "bonnes" reliques
+    - privilégier les missions rapides (capture, exter, sabotage)
+- **farmer en groupe organisé** où chacun amène la même relique pour augmenter les chances de drop spécifiques
+    - passer par un discord communautaire
+    - ??? note "passer par le canal de recrutement du jeu"
+        - mettre le jeu en anglais (plus de monde) via le launcher
+        - régler les paramètres pour les serveurs états-uniens (plus de monde)
+        - utiliser le canal de recrutement
+        - cliquer sur la loupe en haut à gauche du canal : trier par les noms de reliques vous intéressent (réduit le spam)
+        - utiliser les liens d'objets in-game (ouvrir les crochets [ ], commencer à écrire le nom, utiliser l'auto-complétion)
+        - éviter les reliques impeccables/flawless vu le peu de volume disponible (soit intactes pour les loots bronze, soit radiante pour les loots argent/or)
+        - types de messages :
+        - **H [Relic Axi V8] 2/4 rad** : veut dire **H**ost (hôte/créé un groupe) pour la relique Axi V8, déjà 2 joueurs sur 4, relique radiante pour tous ==> vous lui envoyez un message "**+1**" / "**inv**" pour être invité
+        - **L [Relic Axi V8]** ou **LF [Relic Axi V8]** : veut dire **L** looking for group, joueur seul cherchant un groupe. Parfois on peut être contacté pour créer un groupe quand on envoie ce genre de message
+        - pensez à garder le menu ouvert (echap) pour garder un oeil en haut à gauche sur les reliques équipées et être sûr que tous les jours ont la bonne relique (et intacte/radiante pour tous selon), sinon refaites un groupe 
+
+### **Meilleurs spots**
+Privilégier les cartes pour leur rapidité et/ou la capacité à cumuler d'autres farms :
+
+!!! note "Fissure lith : Echo de Bifrost, Proxima de Venus (railjack)"
+    Avantages :
+
+    - vous pouvez inviter des joueurs dès qu'ils ont un archwing (quête jonction de Mars)
+    - drops reliques lith (+ pseudo-vault Nyx/Valkyr)
+    - drop ressources rares (cellules orokin, tellures)
+    - drop crédits élevés (relativement au niveau de jeu)
+    - drop [Athodai](https://wiki.warframe.com/w/Athodai)
+
+    Strat :
+
+    - envoyer un joueur au "point blanc" indiquant une épave (nécessite [rang 5 en intrinsèques de Pilotage](https://wiki.warframe.com/w/Railjack/Intrinsics#Piloting) pour le voir) avec un hack au fond d'un couloir (loot bonus Athodai & reliques Nyx/Valkyr)
+    - faire la partie railjack très courte (détruire le vaisseau ennemi avec canon principal)
+    - se garer en face / un peu au-dessus de l'entrée du vaisseau (accès facile pour tous)
+    - rush l'extermination (aoe + course rapide, ex : Titania helminth gauss)
+    - tout le monde doit se coller à la porte de sortie (pour valider la fin de mission)
+    - revenir au railjack
+        - éviter d'utiliser l'archwing
+        - utiliser [Form Up](https://wiki.warframe.com/w/Form_Up) pour tp tout le groupe
+        - utiliser Omni (roue des consommables, équipé auto en railjack) pour tp solo (nécessite [Rang 4 en intrinsèques de Tactique](https://wiki.warframe.com/w/Railjack/Intrinsics#Tactical))
+
+!!! note "Fissure requiem : Pago - Spy Kuva"
+    - suivre le build et la strat expliqués sur cette [vidéo de GazTTV](https://www.youtube.com/watch?app=desktop&v=eKv-KUJmtG8)
+    - taux élevé de [drops de mods 60/60](https://wiki.warframe.com/w/Pago)
+    - espionnage haut-niveau : drops de meso/neo garanti
+    - ouverture de reliques requiem : 
+        - drops de mods requiems
+        - raffiner en Impeccable (50 traces) pour optimiser
+
+!!! note "fissure Axi/Neo : capture/exter dans le Néant (Hepit, Ukko, Oxomoco, Teshub)"
+    - missions rapides & faciles
+        - couloirs larges
+        - design épuré : chargement rapide
+        - chaque orbe dorée donne de l'énergie à vos frames prime
+    - offre une relique à la fin de chaque mission
+        - Hepit, Teshub : relique Lith
+        - Ukko, Oxomoco : relique Meso / Neo
+    - missions populaires : plus de joueurs pour avancer vite et partager les drops
+

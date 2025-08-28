@@ -8,13 +8,13 @@
 
     Les bons outils & techniques aux bons endroits ! Minage & Pêche inclus
 
-    [:octicons-arrow-right-24: Ressources](starchart.md)
+    [:octicons-arrow-right-24: Ressources](resources.md)
 
 -   :material-weight-lifter:{ .lg .middle } __Expérience__
 
     ---
 
-    Rang de Maîtrise (MR)
+    L'Affinité, le Rang de Maîtrise (MR)
     
     Expérience de compte et d'équipement
 
@@ -64,9 +64,9 @@
 
     ---
 
-    Les Platines, la monnaie premium. 
+    Les Platines, la monnaie premium
 
-    Pistes pour en obtenir en free-to-play
+    Comment en obtenir et "bien" le dépenser
 
     [:octicons-arrow-right-24: Mods](plats.md)
 

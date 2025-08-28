@@ -1,4 +1,8 @@
-# Experience
+![Affinité](../assets/farm/AffinityBooster.png){ width="125" align=right }
+
+# Éxperience
+
+## **Gains d'XP**
 
 L'experience influe le [Rang de Maîtrise](https://wiki.warframe.com/w/Mastery_Rank).
 
@@ -18,7 +22,7 @@ Top des sources d'XP :
 
 -------------------------
 
-## **XP : Boosters**
+## **Boosters**
 
 Le booster d'XP de la boutique n'est pas nécessaire mais appréciable.
 Plus tard vous pourrez aussi obtenir un [Kavat Smeeta](https://wiki.warframe.com/w/Smeeta_Kavat) qui donne un buff 300% XP via son mod [Charm](https://wiki.warframe.com/w/Charm)
@@ -27,7 +31,7 @@ Voir [compagnons](beginner/pets.md) pour plus d'infos.
 
 -------------------------
 
-## **XP : Spots**
+## **Bons Spots**
 
 Vous utiliserez rarement toutes vos armes, pensez à équiper dans les emplacements non utilisés des armes dont vous monterez l'XP passivement en jouant.
 
