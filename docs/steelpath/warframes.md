@@ -1,4 +1,4 @@
-![Warframes](../assets/shared/warframes.png){ width="245" align=right }
+![Revenant](../assets/steelpath/RevenantPrimeFull.png){ width="185" align=right }
 
 # Warframes Steel-path
 

@@ -39,26 +39,28 @@ Quelques méthodes / sources, pour le reste checker [Références](../content.md
 
 - ouvrir des [reliques](relics.md)
 - ??? note "mods apothiques"
-    Pourquoi :
 
-    - [vidéo recap](https://www.youtube.com/results?search_query=apothic%20warframe
-    - drop de mods rares et chers ([Growing Power](https://wiki.warframe.com/w/Growing_Power) & autres)
+        **Pourquoi** :
 
-    Comment :
+        - [vidéos recap](https://www.youtube.com/results?search_query=apothic%20warframe)
+        - drop de mods rares et chers ([Growing Power](https://wiki.warframe.com/w/Growing_Power) & autres)
 
-    - faire la [quête de Titania](https://wiki.warframe.com/w/The_Silver_Grove) pour obtenir les blueprints d'apothiques
-    - farmer les plantes qui vous intéressent (voir [ingrédients apothiques](https://wiki.warframe.com/w/Apothic))
-        - [Grineer Forest](https://wiki.warframe.com/w/Grineer_Forest), Mantle (Terre, capture)
-            - Nuit : Saracénie Crépusculaire, Moonlight Dragonlily, Moonlight Jadeleaf
-            - Jour : Treshcone de jour
-        - Lua : Lunar Pitcher
-        - [Grineer Settlement](https://wiki.warframe.com/w/Grineer_Settlement), **Mars** au sol : Ruk's Claw
-        - [Grineer Asteroid](https://wiki.warframe.com/w/Grineer_Asteroid), **Mercure**/Phobos/Saturne/Uranus : Vestan Moss
-        - [Corpus Outpost](https://wiki.warframe.com/w/Corpus_Outpost), **Venus**/Neptune/Pluton (alétoire) : Frostleaf
-    - fabriquer vos apothiques à l'avance
-    - former un groupe, 1 Khora + 3 Nekros de préférence
-    - run Mantle (Terre) pour cherche le [Silver Grove Shrine](https://wiki.warframe.com/w/Silver_Grove_Shrine) : le lotus parle quand vous rentrez dans le bon tileset
-    - utiliser vos buff loot et ouvrir 2 apothiques chacun
+        **Comment** :
+
+        - faire la [quête de Titania](https://wiki.warframe.com/w/The_Silver_Grove) pour obtenir les blueprints d'apothiques
+        - farmer les plantes qui vous intéressent (voir [ingrédients apothiques](https://wiki.warframe.com/w/Apothic))
+            - [Grineer Forest](https://wiki.warframe.com/w/Grineer_Forest), Mantle (Terre, capture)
+                - Nuit : Saracénie Crépusculaire, Moonlight Dragonlily, Moonlight Jadeleaf
+                - Jour : Treshcone de jour
+            - Lua : Lunar Pitcher
+            - [Grineer Settlement](https://wiki.warframe.com/w/Grineer_Settlement), **Mars** au sol : Ruk's Claw
+            - [Grineer Asteroid](https://wiki.warframe.com/w/Grineer_Asteroid), **Mercure**/Phobos/Saturne/Uranus : Vestan Moss
+            - [Corpus Outpost](https://wiki.warframe.com/w/Corpus_Outpost), **Venus**/Neptune/Pluton (alétoire) : Frostleaf
+        - fabriquer vos apothiques à l'avance
+        - former un groupe, 1 Khora + 3 Nekros de préférence
+        - run Mantle (Terre) pour cherche le [Silver Grove Shrine](https://wiki.warframe.com/w/Silver_Grove_Shrine) : le lotus parle quand vous rentrez dans le bon tileset
+        - utiliser vos buff loot et ouvrir 2 apothiques chacun
+
 - ??? note "mods corrompus"
     - check [page wiki](https://wiki.warframe.com/w/Category:Corrupted_Mods) et [video explicative](https://www.youtube.com/watch?v=f_g2lb_jTeQ)
     - vous en aurez besoin pour vos builds
@@ -71,10 +73,10 @@ Quelques méthodes / sources, pour le reste checker [Références](../content.md
 - farm Aya Cetus (groupe) ou Deimos (Brute Force rang max solo ou à 2
 - farm [Captain Vor](https://www.youtube.com/watch?v=6DH_xGhMAfg)
 - farm endurance Steel Path :
-        -  Cascade + booster mod si possible (+ drops arcanes)
-        -  Défense
-        -  Perturbation/Disruption (Kappa)
-        -  [Arbitrage](https://www.youtube.com/watch?v=xegoFob-KhI&pp=ygUNd2FyZnJhbWUgcGxhdNIHCQnHCQGHKiGM7w%3D%3D)
-        -  ...
+    -  Cascade + booster mod si possible (+ drops arcanes)
+    -  Défense
+    -  Perturbation/Disruption (Kappa)
+    -  [Arbitrage](https://www.youtube.com/watch?v=xegoFob-KhI&pp=ygUNd2FyZnJhbWUgcGxhdNIHCQnHCQGHKiGM7w%3D%3D)
+    -  ...
 - etc...
 

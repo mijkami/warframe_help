@@ -1,4 +1,4 @@
-![Weapons](../assets/shared/BoltorPrime.png){ width="170" align=right }
+![Weapons](../assets/steelpath/Laetum.png){ width="170" align=right }
 
 # Armes Steelpath
 

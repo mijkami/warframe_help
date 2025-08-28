@@ -50,7 +50,7 @@ Les reliques sont une ressource essentielle pour améliorer votre arsenal, les o
 
 ---------------
 
-## **Obtenir des reliques**
+## **Obtention**
 
 - **Sources communes :**
     - espionnage
@@ -68,7 +68,7 @@ On peut acheter chez certains syndicats des packs de 3 reliques aléatoire, trè
 
 ---------------
 
-## **Rareté des reliques**
+## **Rareté**
 
 Utiliser la [page des prime qui n'ont pas encore été vault](https://wiki.warframe.com/w/Prime_Vault#Not_Yet_Vaulted) : les reliques en contenant sont considérées comme communes, sauf si sortie très récente.
 Certaines reliques sont plus intéressantes que d'autres, un mix entre la rareté et la popularité des parties primes :
@@ -86,7 +86,7 @@ Certaines reliques sont plus intéressantes que d'autres, un mix entre la raret�
     - **dépenser de l'[Aya](https://wiki.warframe.com/w/Aya)** pour acheter dans la boutique de [Résurgence Prime](https://wiki.warframe.com/w/Prime_Resurgence) :
         - accès rapide boutique Aya : orbiteur > market > menu déroulant en haut à gauche > avant-dernière option "Résurgence Prime", trier par reliques
         - gagner de l'Aya : 
-            - plus ou moins mêmes sources que les [reliques](relics.md/#obtenir-des-reliques)
+            - plus ou moins mêmes sources que les reliques
             - mises à prix en open-world, plus ou moins rentables, dont 2 méthodes en particulier :
             - [Brute Force](https://www.youtube.com/watch?v=rfV_KoJGvPI) sur Deimos (le + accessible), à faire en solo ou à 2 (certains objectifs deviennent trop longs à 3 et 4 joueurs)
             - [Bounties opti sur Cetus](https://www.youtube.com/watch?v=eovwUJXV6Ow) sur Cetus (+ rentable mais inaccessible pour un nouveau joueur, à réserver en groupe pour [plus tard](../content.md/#discord))
@@ -95,7 +95,7 @@ Certaines reliques sont plus intéressantes que d'autres, un mix entre la raret�
 ---------------
 
 
-## **Ouvrir des reliques**
+## **Ouverture**
 
 ### **Méthode : comment faire**
 

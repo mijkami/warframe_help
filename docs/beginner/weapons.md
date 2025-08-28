@@ -1,4 +1,4 @@
-![Weapons](../assets/shared/BoltorPrime.png){ width="165" align=right }
+![Broken War](../assets/beginner/BrokenWar.png){ width="180" align=right }
 
 # Armes Débutants
 
