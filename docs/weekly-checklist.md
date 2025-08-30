@@ -6,7 +6,7 @@ Contenu fomo / à faire toutes les semaines si possible :
     - Mars : chasse de relique de **Maroo** (statues pour endo ou plats)
 
 - __Nightwave__ : 
-    - menu du jeu, en bas à gauche
+    - menu du jeu, en bas à droite
     - ne pas acheter les plans de réacteurs/catalystes : privilégier les auras vendables au market
     - cliquer sur les cartes des missions pour avoir une explication
 

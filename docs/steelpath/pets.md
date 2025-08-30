@@ -51,7 +51,11 @@ La base, ceux à build/utiliser en priorité. Des compagnons AoE avec des capaci
     - ramener votre Panzer affaibli pour Revification au [Fils](https://wiki.warframe.com/w/Son) dans le Necralisk avec un Antigène et un Mutagène de votre choix (patrons vendus par le Fils, à fabriquer dans votre Forge)
 
 ??? note "Panzer : build"
-    lorem
+    Build Panzer :
+    ![Panzer build](../assets/steelpath/pet_panzer.png)
+    ----
+    Build griffes Panzer :
+    ![Panzer griffes](../assets/steelpath/pet_panzer_claws.png)
 
 ### **Diriga**
 ![Diriga](../assets/steelpath/Diriga.webp){ width="120" align=right }
@@ -68,7 +72,11 @@ La base, ceux à build/utiliser en priorité. Des compagnons AoE avec des capaci
     Achetable pour des crédits dans le [marché](https://wiki.warframe.com/w/Market) de votre orbiteur.
 
 ??? note "Diriga : build"
-    lorem
+    Build Diriga :
+    ![Dirigia build](../assets/steelpath/pet_diriga.png)
+    ----
+    Build Arme Diriga (Prime Laser Rifle) :
+    ![Diriga Prime Laser Rifle](../assets//steelpath//pet_diriga_primelasterifle.png)
 
 ### **Kavat Vasca**
 ![Kavat Vasca](../assets/steelpath/VascaKavat.webp){ width="120" align=right }
@@ -96,7 +104,11 @@ La base, ceux à build/utiliser en priorité. Des compagnons AoE avec des capaci
 
 
 ??? note "Vasca : build"
-    lorem
+    Build Vasca :
+    ![Vasca build](../assets/steelpath/pet_vasca.png)
+    ----
+    Build Griffes Vasca :
+    ![Vasca griffes](../assets/steelpath/pet_vasca_claws.png)
 
 -------------
 
