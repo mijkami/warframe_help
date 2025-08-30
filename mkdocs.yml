@@ -71,7 +71,18 @@ theme:
     - navigation.indexes
     - toc.follow
 
-
+plugins:
+  - search
+  - document-dates:
+      position: bottom         # Display position: top (after title)  bottom (end of document)
+      type: date               # Date type: date  datetime  timeago, default: date
+      exclude:                 
+        - index.md
+        - about.md
+        - drafts/*             # Exclude all files in drafts folder, including subfolders
+      date_format: '%Y-%m-%d'  # Date format strings, e.g., %Y-%m-%d, %b %d, %Y, etc
+      time_format: '%H:%M:%S'  # Time format strings (valid only if type=datetime)
+      show_author: false        # Show author or not, default: true
 
 extra:
   analytics:
@@ -97,3 +108,4 @@ extra_css:
   - stylesheets/themes.css
   - stylesheets/frontpage.css
   - https://rsms.me/inter/inter.css 
+

@@ -1,6 +1,9 @@
 # Warframe.help
 
-Made using [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/)
+Made using :
+
+- [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/)
+- [mkdocs-document-dates](https://github.com/jaywhj/mkdocs-document-dates)
 
 ## About
 
