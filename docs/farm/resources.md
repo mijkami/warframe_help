@@ -35,7 +35,7 @@ Si vous n'avez aucune booster ne desespérez pas. Le plus important est de savoi
 Pour une liste synthétique consultez la **[page du wiki sur les lieux recommandés de farm](https://wiki.warframe.com/w/Resources#Recommended_Farming_Locations)**.
 
 
-On ne verra que les ressources communes du début du jeu, pour plus de détail voir le [wiki, tableau des ressources](https://wiki.warframe.com/w/Resources#Resources_By_Planet).
+On ne verra que les ressources communes du début du jeu, pour plus de détail voir le [wiki, tableau des ressources par planète](https://wiki.warframe.com/w/Resources#Resources_By_Planet).
 
 L'interface d'extracteurs en bas à droite indique les ressources de la planète, par ordre d'abondance.
 Chaque planète a un node "Dark Sector" avec un une icone différente et un booster de drops indiqué.
