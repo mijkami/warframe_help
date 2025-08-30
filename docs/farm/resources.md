@@ -32,47 +32,85 @@ Si vous n'avez aucune booster ne desespérez pas. Le plus important est de savoi
 
 
 ## **Spots de ressources**
+Pour une liste synthétique consultez la **[page du wiki sur les lieux recommandés de farm](https://wiki.warframe.com/w/Resources#Recommended_Farming_Locations)**.
+
+
 On ne verra que les ressources communes du début du jeu, pour plus de détail voir le [wiki, tableau des ressources](https://wiki.warframe.com/w/Resources#Resources_By_Planet).
+
 L'interface d'extracteurs en bas à droite indique les ressources de la planète, par ordre d'abondance.
 Chaque planète a un node "Dark Sector" avec un une icone différente et un booster de drops indiqué.
 
 ### **Communes**
-- _Nano Spores_ :
+
+![Nano Spores](../assets/farm/resources/NanoSpores.png){ width="60" align=left }
+
+- <span class=big_text_20>_Nano Spores_</span>
     - **early** : Deimos (mise à prix, Hyf (def), Terrorem (Survie))
     - Piscinas, Saturne
     - Oestrus, Eris : tileset avec 2 points jaunes indiqués, un gros hologramme bleu dans la salle de farm
     - Zabala, Eris : survie avec bonus loot
-- _Plaques d'alliage_ :
+
+![AlloyPlate](../assets/farm/resources/AlloyPlate.png){ width="60" align=left }
+
+- <span class=big_text_20>_Plaques d'alliage_</span>
     - **early** : Venus, partout
     - Draco, Ceres
     - Gabii, Ceres
-- _Salvage_ (récupération)
+
+![Salvage](../assets/farm/resources/Salvage.png){ width="60" align=left }
+
+- <span class=big_text_20>_Salvage_ (récupération)</span>
     - **early** : Mars, partout
     - Cameria, Jupiter
-- _Ferrite_
-    - **early** : Terre / Mercure, partout
-    - Survie, Néant
+
+![Ferrite](../assets/farm/resources/Ferrite.png){ width="60" align=left }
+
+
+- <span class=big_text_20>_Ferrite_</span>
+    - **early** : Tikal, Terre / Apollodorus, Mercure
+    - Survie / Défense, Néant
 
 ### **Inhabituelles**
-- _Circuits_ :
+
+
+![Circuits](../assets/farm/resources/Circuits.png){ width="60" align=left }
+
+- <span class=big_text_20>_Circuits_</span>
     - **early** : Venus, partout
+    - Draco, Ceres
     - Gabii, Ceres
-- _Cryotique_ : missions [Excavation](https://wiki.warframe.com/w/Excavation)
+
+![Cryotics](../assets/farm/resources/Cryotic.png){ width="60" align=left }
+
+- <span class=big_text_20>_Cryotique_</span> missions [Excavation](https://wiki.warframe.com/w/Excavation)
     - **early** : Tikal, Terre
-- _Hexenon_ :
+
+![Hexenon](../assets/farm/resources/Hexenon.png){ width="60" align=left }
+
+- <span class=big_text_20>_Hexenon_</span>
     - L'idéal est d'utiliser des [extracteurs de ressource](https://wiki.warframe.com/w/Extractor) et de ne pas farmer directement pour gagner du temps
     - Survie, Jupiter
-- _Plastides_ : 
+
+![Plastids](../assets/farm/resources/Plastids.png){ width="60" align=left }
+
+- <span class=big_text_20>_Plastides_</span> 
     - **early** : Deimos, partout
     - Ophelia, Uranus
     - Assur, Uranus
-- _Pack Polymère_ :
-    - **early** : Venus / Mercure, partout
+
+![PolymerBundle](../assets/farm/resources/PolymerBundle.png){ width="60" align=left }
+
+- <span class=big_text_20>_Pack Polymère_</span>
+    - **early** : Venus / Mercure, partout / Apollodorus, Mercure
     - Ophelia, Uranus
     - Assur, Uranus
-- _Rubedo_ :
+
+![Rubedo](../assets/farm/resources/Rubedo.png){ width="60" align=left }
+
+- <span class=big_text_20>_Rubedo_</span>
     - **early** : Terre, partout
-    - Survies, Néant
+    - Survie / Défense, Néant
+    - Zeugma, Phobos
 
 ### **Rares** 
 !!! note "2 façon de farm les ressources rares"
@@ -82,30 +120,60 @@ Chaque planète a un node "Dark Sector" avec un une icone différente et un boos
         - armes AoE 
         - équiper [Instinct Animal](https://wiki.warframe.com/w/Animal_Instinct) pour voir les caisses sur minimap si possible
 
-- _Cristal d'Argon_ : Néant, partout. Indicateur minimap automatique lors d'un drop d'un allié.
-    - spam de maps rapides en cassant des caisses : capture, exter dans le Néant (Ukko, Hepit, Oxomoco, Teshub)
-    - missions longues : défense, survie (Taranis, Belenus, Ani, Mot)
-- _Gallium_ : 
+![Argon](../assets/farm/resources/ArgonCrystal.png){ width="60" align=left }
+
+- <span class=big_text_20>_Cristal d'Argon_</span> 
+    - Néant, partout. Indicateur minimap automatique lors d'un drop d'un allié.
+        - spam de maps rapides en cassant des caisses : capture, exter dans le Néant (Ukko, Hepit, Oxomoco, Teshub)
+        - missions longues : défense, survie (Taranis, Belenus, Ani, Mot)
+
+![Gallium](../assets/farm/resources/Gallium.png){ width="60" align=left }
+
+- <span class=big_text_20>_Gallium_</span> 
     - **early** : Mars, partout
     - Ophelia, Uranus
-- _Morphics_ : 
-    - Mars, partout
-    - Passe de Tyane, Mars
-- _Capteurs neuronaux_ :
+    
+![Morphics](../assets/farm/resources/Morphics.png){ width="60" align=left }
+
+- <span class=big_text_20>_Morphics_</span> 
+    - **early** : 
+        - Apollodorus, Mercure
+        - Mars, partout (Wahiba, Passe de Tyane)
+
+![NeuralSensors](../assets/farm/resources/NeuralSensors.png){ width="60" align=left }
+
+- <span class=big_text_20>_Capteurs neuronaux_</span>
     - Themisto, Jupiter
-- _Neurodes_ : 
-    - **early** : Mariana / Tikal, Terre
-    - **early** : Magnacidium, Deimos
+    - Cameria, Jupiter
+    - Naamah, Europa
+
+![Neurodes](../assets/farm/resources/Neurodes.png){ width="60" align=left }
+
+- <span class=big_text_20>_Neurodes_</span> 
+    - **early** : 
+        - Mariana / Tikal, Terre
+        - Magnacidium / Terrorem, Deimos
     - Zabala, Eris
     - Yuvarium/Circulus, Lua
-- _Cellule Orokin_
+
+![OrokinCell](../assets/farm/resources/OrokinCell.png){ width="60" align=left }    
+
+- <span class=big_text_20>_Cellule Orokin_</span>
     - **early** : Magnacidium, Deimos // Deimos, partout
-    - Gabii, Ceres (Survie)
-    - Helene, Saturne (Défense)
-- _Tellure_
+    - Gabii / Draco, Ceres
+    - Helene, Saturne
+
+![Tellure](../assets/farm/resources/Tellurium.png){ width="60" align=left }
+
+- <span class=big_text_20>_Tellure_</span>
     - Ophelia, Uranus (Survie)
     - missions archwing / railjack
-- _Oxium_ : Io, Jupiter (Défense, tuer les drones)
+
+![Oxium](../assets/farm/resources/Oxium.png){ width="60" align=left }
+
+- <span class=big_text_20>_Oxium_</span> (tuer les drones oxium avant explosion ): 
+    - Io / Elara, Jupiter
+    - Apollo, Lua
 
 ### **Recherche** 
 
@@ -113,9 +181,20 @@ Chaque planète a un node "Dark Sector" avec un une icone différente et un boos
     - déjà construits : **prioriser les [invasions](https://wiki.warframe.com/w/Invasion)** 
     - sinon craft via les plans (chers, usage unique) du dojo + farm ressource intermédiaire
 
-- _Ampoule de détonite_ : Piscinas, Saturne
-- _Echantillon de Fieldron_ : Kelashin, Neptune
-- _Echantillon Mutagène_ : Terrorem, Deimos
+![Detonite](../assets/farm/resources/DetoniteAmpule.png){ width="60" align=left }
+
+- <span class=big_text_20>_Ampoule de détonite_</span> 
+    - Piscinas, Saturne
+
+![Fieldron](../assets/farm/resources/FieldronSample.png){ width="60" align=left }
+
+- <span class=big_text_20>_Echantillon de Fieldron_</span> 
+    - Kelashin, Neptune
+
+![MutagenSample](../assets/farm/resources/MutagenSample.png){ width="60" align=left }
+
+- <span class=big_text_20>_Echantillon Mutagène_</span> 
+    - Terrorem, Deimos
 
 
 ---------------
