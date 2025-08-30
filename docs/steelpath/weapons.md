@@ -4,7 +4,7 @@
 
 Se focaliser sur **un petit pool d'armes** bien moddées. 
 
-Faire le [circuit steel path](../weekly-checklist.md/#joueurs-confirmés) pour obtenir des [incarnons](#incarnons) (avec les décrets et en groupe ça se fait tôt), voire les [liches](#choix-des-armes-de-liche) pour certaines armes. En dehors du circuit, les armes incarnon du [Zariman](../farm/syndicates.md/#syndicats-a-mini-hubs) sont très bien aussi.
+Faire le [circuit steel path](../weekly-checklist.md/#joueurs-confirmes) pour obtenir des [incarnons](#incarnons) (avec les décrets et en groupe ça se fait tôt), voire les [liches](#choix-des-armes-de-liche) pour certaines armes. En dehors du circuit, les armes incarnon du [Zariman](../farm/syndicates.md/#syndicats-a-mini-hubs) sont très bien aussi.
 
 ## **Armes conseillées**
 Classées par Mastery Rank (MR) pour une meilleure lisibilité. N'indique pas la puissance mais juste le niveau permettant d'y accéder.
@@ -112,12 +112,47 @@ Beaucoup d'armes possibles, certaines plus sympa que d'autres.
 - infestés : [technocyte coda](https://wiki.warframe.com/w/Technocyte_Coda)
 
 ### **Status / progéniteurs**
-Les armes de liche bénéficient d'un bonus de dégats/statuts de +20 à +60%, dont le statut est déterminé par la frame qui a généré la liche (larve, candidat...).
+Les armes de liche bénéficient d'un bonus de dégats/statuts de +20 à +60%, dont le statut est déterminé par la frame qui a généré la liche (larve, candidat...). On appelle cette frame le progéniteur.
 
-Voir la [liste des progéniteurs](https://wiki.warframe.com/w/Kuva_Lich/Progenitor) pour plus de détail.
+#### **Types de status**
+Voir la [liste des progéniteurs](https://wiki.warframe.com/w/Kuva_Lich/Progenitor) pour plus de détails.
 Exemple : utiliser Saryn pour avoir une arme toxine, Nezha pour une arme feu, Mesa pour une arme magnétique.
 
-Voir la liste des [status conseillés](https://i.hep.gg/NemesisProgenitors) pour les armes kuva et tenet.
+Ces status sont moins critiques à la création d'une arme que par le passé : ils peuvent être changés avec un [Elemental Vice](https://wiki.warframe.com/w/Elemental_Vice).
+
+!!! note "Status opti : Kuva / Tenet"
+      Voir la liste des [status conseillés](https://i.hep.gg/NemesisProgenitors).
+
+??? note "Status opti : Coda"
+
+    Peuvent changer selon la meta/l'état des connaissances, juste de manière indicative :
+
+    - **primaires** :
+        - _Bassocyst_ : **Froid/Feu** (faire du Blast)
+        - _Hema_ : **Magnetic**
+        - _Sporothix_ : **Elec** (but : blast + elec)
+        - _Synapse_ : **Feu** (but : Corro / Blast ou Corro/Feu)
+    - **secondaires** :
+        - _Tysis_ : **Magnetic**
+        - _Pox_ :  **Froid** (but : Corro / Blast avec Primed Heated Charge)
+        - _Dual Coda Torxica_ : **Elec** OU **Feu** (but : Feu viral, Elec viral)
+        - _Catabolyst_ : **Feu** (but : Corro+Feu+Viral)
+    - **mêlée** :
+        - Patho_cyst :  **Elec** (Blast + Elec Influence)
+        - _Mire_ : **Elec** (Gas+Elec Influence) ou feu (Gas Afflictions)
+        - _Hirudo_ : **Elec** (Viral+Elec Influence)
+        - _Caustacyst_ : **Elec** (Viral+Elec Influence)
+        - _Motovore_ : **Impact** (Corro Exposure) ou **Elec** (Influence)
+
+
+#### **Pourcentages de status**
+
+Pour les armes en boutique (Coda, Tenet Ergo Glast), pour réduire le nombre de fusion avant le maximum, visez des armes [avec les % suivants](https://wiki.warframe.com/w/Kuva_Weapons#Elemental_Bonus) :
+
+   - directement 60% (heh)
+   - 52.8% (juste 1 fusion avant max)
+   - 48% (2 fusions avant max)
+
 
 ### **Choix des armes de liche**
 L'essentiel est présent dans les [armes conseillées](#armes-conseillees).
