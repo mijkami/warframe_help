@@ -11,9 +11,11 @@ Classées par Mastery Rank (MR) pour une meilleure lisibilité. N'indique pas la
 
 !!! note "Le MR minimal peut être trompeur"
 
-      - les [kitguns](https://wiki.warframe.com/w/Kitgun) nécessitent de la réputation, 
-      - les adaptateurs incarnons nécessitent l'accès au [circuit SP](https://wiki.warframe.com/w/The_Circuit#The_Steel_Path_Circuit),
-      - les armes de [liche Tenet/Kuva](#armes-de-liche) se font en mission lvl 55-110... mais techniquement accessible tôt, indiquées par une étoile *
+    - les [kitguns](https://wiki.warframe.com/w/Kitgun) nécessitent de la réputation, 
+    - les adaptateurs incarnons nécessitent l'accès au [circuit SP](https://wiki.warframe.com/w/The_Circuit#The_Steel_Path_Circuit),
+    - les armes de [liche Tenet/Kuva](#armes-de-liche) 
+        - les armes de liche kuva/tenet en "récompense directe" (via fonderie et pas une boutique ingame) ignorent les prérequis en MR, il faut juste le MR 5 + quêtes [War Within](https://wiki.warframe.com/w/The_War_Within) + [Rising Tide](https://wiki.warframe.com/w/Rising_Tide)
+        - les missions de liche kuva/tenet se font lvl 55-110... mais techniquement accessible tôt, indiquées par une étoile *
 
 - **primaires** :
       - MR 0+ : Nataruk, Kitgun Vermisplicer+Brash+Splat, Kitgun Vermisplicer+Brash/palmaris+macro thymoid
@@ -48,7 +50,12 @@ Classées par Mastery Rank (MR) pour une meilleure lisibilité. N'indique pas la
 
 
 ## **Incarnons**
-Tous les incarnons ont du potentiel, mais certains sont plus efficaces dans l'état actuel du jeu et/ou plus agréables à jouer de manière génèrale.
+Tous les [incarnons](https://wiki.warframe.com/w/Incarnon) ont du potentiel, mais certains sont plus efficaces dans l'état actuel du jeu et/ou plus agréables à jouer de manière génèrale.
+
+!!! note "checklist pré-requis OBLIGATOIRES pour obtenir une arme incarnon"
+    - Incarnons Zariman : quête [Anges du Zariman](https://wiki.warframe.com/w/Angels_of_the_Zariman)
+    - Incarnons du Sanctum : quête [Murmures dans le mur](https://wiki.warframe.com/w/Whispers_in_the_Walls) + [Deadlock Protocol](https://wiki.warframe.com/w/The_Deadlock_Protocol)
+    - Incarnons de Duviri : quête [Paradoxe de Duviri](https://wiki.warframe.com/w/The_Duviri_Paradox) + [SteelPath](https://wiki.warframe.com/w/The_Steel_Path)
 
 ### **Incarnons prioritaires**
 Dans le doute, opter pour les incarnons suivants :
@@ -110,6 +117,26 @@ Beaucoup d'armes possibles, certaines plus sympa que d'autres.
 - grineer : [liche kuva](https://wiki.warframe.com/w/Kuva_Lich)
 - corpus : [soeur de parvos](https://wiki.warframe.com/w/Sisters_of_Parvos)
 - infestés : [technocyte coda](https://wiki.warframe.com/w/Technocyte_Coda)
+
+!!! note "Checklist pré-requis OBLIGATOIRES pour obtenir une liche"
+
+    - être [MR 5](../beginner/mastery-rank.md) (depuis l'[update 35](https://wiki.warframe.com/w/Update_35#Update_35.0) de 2023)
+    - avoir fait les quêtes [War Within](https://wiki.warframe.com/w/The_War_Within) + [Rising Tide](https://wiki.warframe.com/w/Rising_Tide)
+    - ne pas avoir de liche active (on ne peut en faire q'une à la fois)
+        - pour vérifier : aller dans le menu du jeu et voir en bas à droite si vous avez un bouton rouge/bleu/vert à côté de vos Ondes Nocturnes (Nightwave)
+
+
+!!! note "MR requis affiché et réel"
+
+      Il faut bien séparer 2 types d'armes de liche :
+
+    - **armes de liche obtenues dans la fonderie** après combat (liches kuva + tenet)
+        - ignorent les prérequis en MR, il faut juste les pré-requis MR 5 + [War Within](https://wiki.warframe.com/w/The_War_Within) + [Rising Tide](https://wiki.warframe.com/w/Rising_Tide)
+    - **armes de liche obtenues dans une boutique ingame** contre des jetons (armes coda + tenet chez Ergo Glast)
+        - suivent les règles normales de prérequis MR pour obtenir l'arme
+            - au MR 16 on a débloqué toutes les armes [Tenet d'Ergo Glast](https://wiki.warframe.com/w/Ergo_Glast#Tenet_Weapons) (MR 14 à 16 selon les armes)
+            - au MR 17 on a débloqué toutes les armes [Coda](https://wiki.warframe.com/w/Coda_Weapons) d'Eleanor (MR 17 pour toutes)
+
 
 ### **Status / progéniteurs**
 Les armes de liche bénéficient d'un bonus de dégats/statuts de +20 à +60%, dont le statut est déterminé par la frame qui a généré la liche (larve, candidat...). On appelle cette frame le progéniteur.

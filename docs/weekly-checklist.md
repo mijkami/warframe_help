@@ -31,6 +31,8 @@ Contenu fomo / à faire toutes les semaines si possible :
 
 ## **Joueurs confirmés**
 
+Nécessite d'avoir fait toutes les quêtes principales jusqu'aux Hex et monté au max les reput Cavia & Hex.
+
 !!! note "5x Charges netracelles"
     Différentes façon de dépenser vos 5 charges hebdomadaires :
 
@@ -39,6 +41,7 @@ Contenu fomo / à faire toutes les semaines si possible :
         - 1 charge restante = 1 nétracelle
     - OU 5x [nétracelles](https://wiki.warframe.com/w/Netracells) si vous galérez en archimédée, à éviter mais moindre mal
 
+- __Sortie Hebdo__ : Chasse d'Archonte => **éclats d'archonte, parfois Tau** (Navigation, dernier onglet)
 - __Zariman__ : visiter l'archymédienne Yonta et lui acheter du **Kuva** pour 5 plumes (farmer les plumes en amont)
 - __Terre__ :
     - Iron Wake : visiter Paladino pour lui acheter **Kuva** + crédits + 2 rivens voilés
@@ -54,7 +57,6 @@ Contenu fomo / à faire toutes les semaines si possible :
     - Calendrier
         - favoriser les nodes donnant des **éclats d'archonte**, réacteurs, catalystes
         - compléter à fond si besoin pour faciliter les archimédées temporelles
-    - Chasse d'Archonte : **éclats d'archonte, parfois Tau**
 
 - __Duviri__ :
     - [Circuit steelpath](https://wiki.warframe.com/w/The_Circuit#The_Steel_Path_Circuit) : **prioritaire**, choisir les **adaptateurs arme incarnon** entre ce qui est fort/meta et ce qui vous intéresse. Voir la section [Incarnons](steelpath/weapons.md#incarnons) ou les recaps hebdo de [GazTTV](https://www.youtube.com/@GazTTV) (fait une revue des incarnons hebdos avec des conseils pour le choix)
