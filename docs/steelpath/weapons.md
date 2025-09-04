@@ -226,16 +226,48 @@ Ajout des armes Tenet disponibles via [Holokeys](https://wiki.warframe.com/w/Cor
       - nécessite d'équiper 3 [mods requiem](https://wiki.warframe.com/w/Requiem_Mods) sur votre Parazon (en bas de l'arsenal), pour tester et trouver la bonne combinaison de 3 mods permettant de vaincre la liche ([guide strat requiem](https://wiki.warframe.com/w/User:Emptylord/Requiem_Guide))
       - une fois la bonne combinaison trouvée, battre la liche en mission railjack sur [Proxima de Saturne](https://wiki.warframe.com/w/Saturn_Proxima). Utiliser Revenant et/ou silence et une arme qui tire vite (Dual Toxocyst Incarnon) pour se faciliter la vie. Tuer la liche pour obtenir son arme.
 
+      ``` mermaid
+      graph TB
+      A[MR 5 + War Within + Railjack Intrinsic 5] --> B{Liche active ?}
+      B --> |Non| C{Statut désiré connu ?}
+      C --> |Non| D[Check liste progéniteurs]
+      C --> |Oui| E[Cassini, Saturne, Solo]
+      E --> F[Capture puis 10+ kills]
+      F --> G[Apparition Larve Kuva]
+      G --> H{Arme souhaitée ?}
+      H --> |Non| I[Extract]
+      H --> |Oui| J[Capturer Larve]
+      I --> E
+      B --> |Oui| AA{Mods requiem possédés ?}
+      AA --> |Non| AB{Farm reliques requiem}
+      AB --> AC[Déluge Kuva / Achats / Thralls de liche]
+      AC --> AB
+      AA --> |Oui| AE[Equiper 3 mods requiem aléatoires]
+      AE --> AF{Combinaison connue ?}
+      AF --> |Non| AG[Missions de liche]
+      AG --> AJ[Tuer thralls /Identifier 1er mot]
+      AJ --> AK[Mot identifié au début du parazon]
+      AK --> AL[Tester sur liche]
+      AL --> AM{Mot validé ?}
+      AM --> |Non| AN[Changer le mot d'emplacement]
+      AM --> |Oui| AO[Laisser le mot valide en place]
+      AN --> AP[Passer au mot suivant]
+      AO --> AP
+      AP --> AF
+      AF --> |Oui| AQ[Tuer liche Railjack Saturne]
+      ```
+
+
 ??? note "Liches Corpus (Soeurs de Parvos / Tenet)"
 
       - être MR5 minimum, avoir fait la [Guerre Intérieure](https://wiki.warframe.com/w/The_War_Within) et l'[Appel des Tempestarii](https://wiki.warframe.com/w/Call_of_the_Tempestarii)
       - faire apparaître un [Candidat](https://wiki.warframe.com/w/Candidate)
-            - faire Hydra (Pluton), pendant la mission récupérer une [Couronne Granum Zenith](https://wiki.warframe.com/w/Granum_Void#Mechanics) sur un [Trésorier](https://wiki.warframe.com/w/Treasurer
-            - refaire Hydra (Pluton) en solo de préférence (baisse la difficulté du Granum Void)
-            - donner la couronne à une grande statue de main dorée (Golden Hand Tribute)
-            - battre au minimum le 1er rang dans le Granum Void. 
-                  - Utiliser des aoe (mesa/octavia = easy, arme aoe sur une corniche en bord de map...) 
-                  - ou le [Xoris](https://wiki.warframe.com/w/Xoris)
+         - faire Hydra (Pluton), pendant la mission récupérer une [Couronne Granum Zenith](https://wiki.warframe.com/w/Granum_Void#Mechanics) sur un [Trésorier](https://wiki.warframe.com/w/Treasurer)
+         - refaire Hydra (Pluton) en solo de préférence (baisse la difficulté du Granum Void)
+         - donner la couronne à une grande statue de main dorée (Golden Hand Tribute)
+         - battre au minimum le 1er rang dans le Granum Void. 
+            - Utiliser des aoe (mesa/octavia = easy, arme aoe sur une corniche en bord de map...) 
+            - ou le [Xoris](https://wiki.warframe.com/w/Xoris)
       -  les missions à effectuer sont :
          -  de niveau 55 à 110 selon le niveau de votre liche
          -  lieux : venux, phobos, jupiter, neptune, pluton (+forteresse kuva pour ouvrir vos [reliques requiem](https://wiki.warframe.com/w/Void_Relic#Requiem_Relics))
@@ -244,6 +276,40 @@ Ajout des armes Tenet disponibles via [Holokeys](https://wiki.warframe.com/w/Cor
       - nécessite d'ouvrir les [reliques requiem](https://wiki.warframe.com/w/Void_Relic#Requiem_Relics) obtenues en tuant les thralls de la liche en mission (ou en faisant des alertes siphon kuva) pour obtenir des [mods requiem](https://wiki.warframe.com/w/Requiem_Mods)
       - nécessite d'équiper 3 [mods requiem](https://wiki.warframe.com/w/Requiem_Mods) sur votre Parazon (en bas de l'arsenal), pour tester et trouver la bonne combinaison de 3 mods permettant de vaincre la liche ([guide strat requiem](https://wiki.warframe.com/w/User:Emptylord/Requiem_Guide))
       - une fois la bonne combinaison trouvée et l'antivirus à 100%, battre la liche en mission railjack sur [Proxima de Neptune](https://wiki.warframe.com/w/Neptune_Proxima). Utiliser Revenant et/ou silence et une arme qui tire vite (Dual Toxocyst Incarnon) pour se faciliter la vie. Tuer la liche pour obtenir son arme.
+
+      ``` mermaid
+      graph TB
+      A[MR 5 + War Within + Railjack Intrinsic 5] --> B{Liche active ?}
+      B --> |Non| C{Statut désiré connu ?}
+      C --> |Non| D[Check liste progéniteurs]
+      C --> |Oui| E[Hydra, Pluton, Solo]
+      E --> F[Repérer statue Main dorée]
+      F --> G[Utiliser Couronne Granum Zenith]
+      G --> H[Réussir au moins difficulté 1/3]
+      H --> I[Finir capture + tuer Trésorier]
+      I --> J[Apparition Candidat]
+      J --> K{Arme souhaitée ?}
+      K --> |Non| L[Extract]
+      K --> |Oui| M[Capturer Candidat]
+      L --> E
+      B --> |Oui| AA{Mods requiem possédés ?}
+      AA --> |Non| AB{Farm reliques requiem}
+      AB --> AC[Déluge Kuva / Achats / Thralls de liche]
+      AC --> AB
+      AA --> |Oui| AE[Equiper 3 mods requiem aléatoires]
+      AE --> AF{Combinaison connue ?}
+      AF --> |Non| AG[Missions de liche]
+      AG --> AJ[Tuer thralls /Identifier 1er mot]
+      AJ --> AK[Mot identifié au début du parazon]
+      AK --> AL[Tester sur liche]
+      AL --> AM{Mot validé ?}
+      AM --> |Non| AN[Changer le mot d'emplacement]
+      AM --> |Oui| AO[Laisser le mot valide en place]
+      AN --> AP[Passer au mot suivant]
+      AO --> AP
+      AP --> AF
+      AF --> |Oui| AQ[Tuer liche Railjack Neptune]
+      ```
 
 ??? note "Liches Infestées (Coda)"
 
@@ -255,6 +321,29 @@ Ajout des armes Tenet disponibles via [Holokeys](https://wiki.warframe.com/w/Cor
          - faire les nodes de 1999 indiqués par un contour vert avec tentacules, attaquer et utiliser le parazon sur les liches pour tester vos Antivirus
       - nécessite seulement 1 Antivirus valable pour battre une liche, on peut les tester 3 par 3 puis changer les inutiles pour des mods de [Potency](https://wiki.warframe.com/w/Potency_Mods) pour booster l'antivirus
       - une fois la bonne combinaison trouvée, battre la liche en mission railjack sur [Proxima de la Terre](https://wiki.warframe.com/w/Earth_Proxima). Utiliser Revenant et/ou silence et une arme qui tire vite (Dual Toxocyst Incarnon) pour se faciliter la vie. Tuer la liche pour obtenir son arme.
+
+      ``` mermaid
+      graph TB
+      A[Accès Hex] --> B{Antivirus possédés ?}    
+      B --> |Non| C[Bounty Antivirus]
+      C --> B
+      B --> |Oui| D{Liche Coda active ?}
+      D --> |Non| E[Capture Legacyte Solo]
+      E --> F[Ramasser Mixtape Jaune]
+      F --> G[Amener Mixtape à un terminal]
+      G --> D
+      D --> |Oui| H[Antivirus identifié ?]
+      H --> |Non| I[Equiper 3 Antivirus]
+      I --> J[Missions 1999 Coda]
+      J --> K[Test Antivirus sur Liche]
+      K --> H
+      H --> |Oui| L[Equiper 1 Antivirus + 2 Potency]
+      L --> M[Antivirus 100%]
+      M --> N[Tuer Licher Railjack Terre]
+      N --> O[MR17, Acheter armes chez Eleanor]
+      ```
+
+
 
 
 ## **Priming**
