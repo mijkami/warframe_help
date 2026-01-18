@@ -95,6 +95,8 @@ Chaque planète a un node "Dark Sector" avec un une icone différente et un boos
 
 - <span class=big_text_20>_Plastides_</span> 
     - **early** : Deimos, partout
+    - Cambion (open-world), Deimos + Itzal
+    - Stephano, Uranus
     - Ophelia, Uranus
     - Assur, Uranus
 

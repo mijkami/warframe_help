@@ -5,6 +5,18 @@ Made using :
 - [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/)
 - [mkdocs-document-dates](https://github.com/jaywhj/mkdocs-document-dates)
 
+## Requirements
+
+pip install virtualenv
+virtualenv venv 
+source venv/bin/activate 
+pip install mkdocs
+pip install mkdocs-material-extensions
+pip install pymdown-extensions
+pip install mkdocs-material
+pip install mkdocs-document-dates
+#pip install mkdocs-macros-plugin
+
 ## About
 
 ## Commands

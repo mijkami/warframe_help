@@ -42,6 +42,12 @@ Pour atténuer l'impact de la réduction de dégats des acolytes :
 - heavy slam : Magistar Incarnon, Fragor Prime, Arca Titron, Sampotes...
 - armes moddées crit / attaque lourde. Compatible stat-stick vitesse de course ou arme hybride crit/status : Praedos, Okina incarnon, Dual Ichor Incarnon...
 - mod [Shattering Impact](https://wiki.warframe.com/w/Shattering_Impact) à envisager si mếlée uniquement pour Acolytes
+??? note "Praedos build Exposure / Duplicate"
+    - **Exposure**, spam attaque lourde:
+    ![Praedos Exposure](../assets/steelpath/praedos_acolyte_slayer_exposure.png)
+    - **Duplicate**, attaques légères puis lourde :
+    ![Praedos Duplicate](../assets/steelpath/praedos_acolyte_slayer_duplicate.png)
+
   
 ### **Distance**
 Essentiellement des armes à projectiles aoe :

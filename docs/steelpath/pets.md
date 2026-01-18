@@ -123,7 +123,7 @@ Moins polyvalents que les Essentiels, ils peuvent compléter un build ou remplir
 - **[Kavat Smeeta](https://wiki.warframe.com/w/Smeeta_Kavat)** : buffs aléatoires via [Charm](https://wiki.warframe.com/w/Charm). Essentiellement utilisé pour le **buff 300% affinité/XP**. 
 - [**Hounds**](https://wiki.warframe.com/w/Hound_(Companion)) de liche Tenet : Grosse capacité de **DPS/Nuke AoE** + mods utilitaires de niche + accès mods robotiques ([Guardian](https://wiki.warframe.com/w/Guardian))
 - [Kubrow Huras](https://wiki.warframe.com/w/Huras_Kubrow) : **invisibilité** partielle ([Stalk](https://wiki.warframe.com/w/Stalk) + DPS (stat-stick Paris Prime Incarnon + [Hunter Synergy](https://wiki.warframe.com/w/Hunter_Synergy) + [Mecha Overdrive](https://wiki.warframe.com/w/Mecha_Overdrive) + griffes slash/feu crit)
-- [Shade Prime](https://wiki.warframe.com/w/Shade/Prime) : **invisbilité** partielle ([Ghost](https://wiki.warframe.com/w/Ghost)), meurt moins souvent que le Huras car moins d'aggro / suit la frame
+- [Shade Prime](https://wiki.warframe.com/w/Shade/Prime) : **invisibilité** partielle ([Ghost](https://wiki.warframe.com/w/Ghost)), meurt moins souvent que le Huras car moins d'aggro / suit la frame
 - [Dethcube Prime](https://wiki.warframe.com/w/Dethcube/Prime) : génération d'**énergie** ([Energy Generator](https://wiki.warframe.com/w/Energy_Generator))
 - [Wyrm Prime](https://wiki.warframe.com/w/Wyrm/Prime) : **retrait auto des status** reçus via [Negate](https://wiki.warframe.com/w/Negate), très bon ajout de survivabilité
 
