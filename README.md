@@ -24,6 +24,10 @@ pip install mkdocs-document-dates
 * `mkdocs build` - Build the documentation site.
 * `mkdocs -h` - Print help message and exit.
 
+## Déploiement github-pages :
+* `source venv/bin/activate`
+* `python -m mkdocs gh-deploy`
+
 ## Project layout
 
     mkdocs.yml    # The configuration file.
