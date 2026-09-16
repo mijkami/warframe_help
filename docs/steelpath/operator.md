@@ -4,12 +4,27 @@
 - Unairu permet de te rendre insensible à certains contrôles (Poise, premier talent) et de te rez en Tenno (Last Gasp)
 - Vazarin peut te rendre invincible (Protective Sling)
 - Zenurik pour la regen energie si besoin (trouver d'autres sources au plus vite)
-- Madurai sera essentiel plus tard (boost dégâts tenno + bonus force/vitesse cast pour frame)
+- Madurai utile pour les dégats d'opérateur plus tard dans le jeu (boost dégâts tenno + bonus puissance/vitesse cast pour frame)
 
 ---------- 
 
 ## **Survie** 
-Débloquer tous les passifs liés à la voie pour y accéder en permanence permettra de revenir à la vie en faisant quelques kills en Tenno, quelque soit la voie sélectionnée (plus simple en Madurai pour les bonus dégats opérateur en prime).
+L'opérateur peut participer à la survie de la warframe :
+
+- **résurrection autonome** :
+    - via le talent [Last Gasp](https://wiki.warframe.com/w/Focus/Unairu#Last_Gasp) de l'école de Focus Unairu
+    - permet de **faire revenir la warframe à la vie** en tuant 3 ennemis en opérateur sur 15 secondes
+    - disponible pour toutes les branches d'opérateur : **débloquer les passifs liés à la voie** concernés pour y accéder en permanence (monter rang max). D'autres passifs déliés permettent d'augmenter les dégats & la survie de l'opérateur facilitant la résurrection.
+    - les compétences actives de Madurai facilitent les kills en opérateur pour le rez
+    - le glaive (Phahd, attaque secondaire) de l'amplificateur facilite le rez
+- **protection préventive** : 
+    - via le talent de l'arbre Vazarin [Protective Sling](https://wiki.warframe.com/w/Focus/Vazarin#Protective_Sling)
+    - permet de rendre invulnérables les cibles alliées (votre warframe comprise) pour 5s après avoir "dash" à travers
+    - utiliser [Magus Cloud](https://wiki.warframe.com/w/Magus_Cloud) pour faciliter l'opération
+    - hameplay très particulier /répétitif & nécessite le Tektolyst débloqué pour les lvl cap (ennemis lvl 9999)
+- **contrôle des ennemis** :
+    - via l'arcane d'opếrateur [Magus Lockdown](https://wiki.warframe.com/w/Magus_Lockdown)
+    - un dash opérateur permet de créer une mine (max 2) qui bloque jusqu'à 10 ennemis chacune pour 4 secondes
 
 ---------- 
 
