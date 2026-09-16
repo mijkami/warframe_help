@@ -10,10 +10,7 @@ Made using :
 pip install virtualenv
 virtualenv venv 
 source venv/bin/activate 
-pip install mkdocs
-pip install mkdocs-material-extensions
-pip install pymdown-extensions
-pip install mkdocs-material
+pip install mkdocs mkdocs-material-extensions pymdown-extensions mkdocs-material
 pip install mkdocs-document-dates
 #pip install mkdocs-macros-plugin
 
@@ -22,7 +19,8 @@ pip install mkdocs-document-dates
 ## Commands
 
 * `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
+* `mkdocs serve` - Start the live-reloading docs server. 
+*  # python -m mkdocs serve
 * `mkdocs build` - Build the documentation site.
 * `mkdocs -h` - Print help message and exit.
 
