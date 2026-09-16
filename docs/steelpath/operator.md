@@ -24,7 +24,7 @@ L'opérateur peut participer à la survie de la warframe :
     - hameplay très particulier /répétitif & nécessite le Tektolyst débloqué pour les lvl cap (ennemis lvl 9999)
 - **contrôle des ennemis** :
     - via l'arcane d'opếrateur [Magus Lockdown](https://wiki.warframe.com/w/Magus_Lockdown)
-    - un dash opérateur permet de créer une mine (max 2) qui bloque jusqu'à 10 ennemis chacune pour 4 secondes
+    - un dash opérateur permet de créer une mine (max 2) qui bloque jusqu'à 10 ennemis chacune pour 4 secondes sur 15 mètres
 
 ---------- 
 
