@@ -2,7 +2,7 @@
 
 - el classico "Craft un **Forma** par jour"
 - surveiller les alertes :
-  - Invasions (reacteurs / catalystes prio)
+    - Invasions (reacteurs / catalystes prio)
 - **archon shards**, cf [checklist hebdo](../weekly-checklist.md)
 - Aya : la boutique s'accède directement dans l'orbiteur > market > menu déroulant > avant-dernière catégorie "Resurgence Prime"
 
