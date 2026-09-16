@@ -14,7 +14,7 @@ L'opérateur peut participer à la survie de la warframe :
 - **résurrection autonome** :
     - via le talent [Last Gasp](https://wiki.warframe.com/w/Focus/Unairu#Last_Gasp) de l'école de Focus Unairu
     - permet de **faire revenir la warframe à la vie** en tuant 3 ennemis en opérateur sur 15 secondes
-    - disponible pour toutes les branches d'opérateur : **débloquer les passifs liés à la voie** concernés pour y accéder en permanence (monter rang max). D'autres passifs déliés permettent d'augmenter les dégats & la survie de l'opérateur facilitant la résurrection.
+    - disponible pour toutes les branches d'opérateur : **débloquer les passifs liés à la voie** concernés pour y accéder en permanence (monter rang max). D'autres [passifs déliés](https://wiki.warframe.com/w/Focus#Way-Bounds) permettent d'augmenter les dégats & la survie de l'opérateur facilitant la résurrection.
     - les compétences actives de Madurai facilitent les kills en opérateur pour le rez
     - le glaive (Phahd, attaque secondaire) de l'amplificateur facilite le rez
 - **protection préventive** : 
