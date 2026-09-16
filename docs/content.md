@@ -121,7 +121,6 @@ Bon ratio accessibilité / qualité (bonnes infos, vidéos courtes) :
 - [KnightmareFrame](https://www.youtube.com/@KnightmareFrame/videos)
 - [IgnusT](https://www.youtube.com/@IgnusTer/videos)
 - [WarframeFlo](https://www.youtube.com/@WarframeFlo/videos)
-- [Brozime](https://www.youtube.com/@Brozime/videos)
 - [TacticalPotato](https://www.youtube.com/@TacticalPotato/videos)
 - [Kyaii](https://www.youtube.com/@kyaii/videos)
 - [LeyzarGamingViews](https://www.youtube.com/@LeyzarGamingViews/videos)
@@ -136,5 +135,6 @@ Bon ratio accessibilité / qualité (bonnes infos, vidéos courtes) :
 - **GrindHardSquad** : copie des builds et les modifie sans comprendre, spam contenu vide
 - **MHBlacky** : bonne présentation mais qualité inconsistante niveau builds
 - **Pupsker** : comme grindhard, du slop en volume et peu de qualité, fait même des stream afk pour les drops...
+- **Brozime** : trop aléatoire, ne creuse pas ses sujets avant de commenter (parfois plus de la désinformation que du guide pur et dur)
 
 
