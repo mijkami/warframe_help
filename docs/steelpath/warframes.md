@@ -13,7 +13,9 @@ La sélection est déjà réduite, pour pousser encore plus loin les **top prio 
 
 !!! note "Prio : autonome résistance dégats & status"
 
-    <span class=big_text>**Dante**, Nezha, Rhino, **Revenant**, Valkyr, Trinity, **Kullervo**, Gauss, Atlas</span>
+    <span class=big_text>**Dante**, **Revenant**, **Kullervo**, **Follie**</span>
+
+    <span class=big_text>Nezha, Rhino, Valkyr, Trinity, Gauss, Atlas, Uriel</span>
 
 !!! note "Très bons : résistance dégats + besoin d'ajouter une résistance status"
     - ajouter [résistance contrôle/status](#resistance-status) extérieure :
@@ -36,11 +38,11 @@ La sélection est déjà réduite, pour pousser encore plus loin les **top prio 
   - [**Invisibilité**](https://wiki.warframe.com/w/Invisible) : très fort mais sensible aux balles perdues (mauvais placements) et aux dégâts sur le temps ([Rolling Guard](https://wiki.warframe.com/w/Rolling_Guard) compense)
     - Pouvoir de frame : Ash, Ivara, Loki, Octavia, Oraxia, Voruna, Wisp, Wukong, Cyte-09
     - [Helminth](#helminth) : 
-       - [Evade](https://wiki.warframe.com/w/Evade) de Cyte, peu compatible au jeu en groupe
-       - [Quiver](https://wiki.warframe.com/w/Quiver) d'Ivara, réservé à un gameplay statique ou hasardeux (possible de planter la flèche dans votre sentinelle pour )
-    - [compagnons](pets.md) : pour les frames "caster" qui n'ont pas besoin d'utiliser d'arme (Protea, Xaku, Dante...)
-      - [Shade Prime](https://wiki.warframe.com/w/Ghost) : plus solide, accès au mod Guardian
-      - [Huras Kubrow](https://wiki.warframe.com/w/Stalk) : companion libre qui peut mourrir plus facilement, donne l'accès aux mods récupérateur + nuke Kubrow
+        - [Evade](https://wiki.warframe.com/w/Evade) de Cyte, peu compatible au jeu en groupe
+        - [Quiver](https://wiki.warframe.com/w/Quiver) d'Ivara, réservé à un gameplay statique ou hasardeux (possible de planter la flèche dans votre sentinelle pour )
+    - [Compagnons](pets.md) : pour les frames "caster" qui n'ont pas besoin d'utiliser d'arme (Protea, Xaku, Dante...)
+        - [Shade Prime](https://wiki.warframe.com/w/Ghost) : plus solide (moins d'aggro), accès au mod Guardian
+        - [Huras Kubrow](https://wiki.warframe.com/w/Stalk) : companion libre qui peut mourrir plus facilement, donne l'accès aux mods récupérateur + nuke Kubrow
 
 ## ÉNERGIE
 
@@ -50,6 +52,9 @@ Deux stratégie principales que l'on peut cumuler :
 
 - réduire le coût des sorts :
    - **efficacité** : réduction directe
+      - [Arcane Sculptor](https://wiki.warframe.com/w/Arcane_Sculptor)
+        - **frame** (très) compatible : Cyte, Follie, Gara, Gyre, Jade, Protea, Vauban, Volt
+        - **helminth** (très) compatible : **Brightbonnet** (Nokko), **Molt** (Saryn), **Astral Shell** (Sirius & Orion)
    - **durée** : pour les buffs, moins de casts / minute => moins d'énergie dépensée
 - augmenter le stock/**pool d'énergie** et les moyens de le remplir
    - [stock d'énergie](https://wiki.warframe.com/w/Energy_Capacity#Increasing_Energy_Capacity) : flux, flux accru, shard archonte bleues (2-3 max)
