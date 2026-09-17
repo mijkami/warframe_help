@@ -27,6 +27,7 @@ Contenu fomo / à faire toutes les semaines si possible :
         - !!! note "pièges à éviter"
              Ne pas prendre Octavia ou Hildryn en circuit : il faudra quand même faire leurs quêtes/farms respectifs pour les composants de craft
 
+
 -----------------
 
 ## **Joueurs confirmés**
@@ -51,6 +52,14 @@ Nécessite d'avoir fait toutes les quêtes principales jusqu'aux Hex et monté a
     - **Archimédée Profonde Elite** (2 charges) : **prioritaire**. Source d'**éclats d'archonte basiques + tau**.
         - Possibilité d'enlever un handicap : se focaliser sur une frame hyper-op en joker (Dante, Octavia) et prendre tout le reste. 
     -  1 x [nétracelle](https://wiki.warframe.com/w/Netracells). Seulement pour les charges non-dépensées en Archimédées
+
+- [__Descendia__](https://wiki.warframe.com/w/The_Descendia) :
+    - intérêt (surtout version Steel Path) dépend des récompenses de la semaine, notablement :
+        - éclat d'archonte occasionnel
+        - [booster drop de mods](https://wiki.warframe.com/w/Mod_Drop_Chance_Booster) qui aide au farm de certains mods (ex Orb Vallis) et arcanes (drops Cascade)
+        - schéma Catalyste / Reacteur : équivalent à 20 plat en boutique, à voir si cela vaut les 25-35mn pour faire une rotation complète ou farmer autre chose
+    - intérêt version normale : potentiel [farm](../farm/plats/#bons-plans) arcanes / vosphor
+
 
 - __1999__ :
     - Archimédée Temporelle Elite (2 charges) : **prioritaire**. Source d'**éclats d'archonte basiques + tau**.Prendre tous les handicaps pour le loot maximum. Faire des runs le soir en début ou fin de semaine pour avoir le plus de monde avec vous.

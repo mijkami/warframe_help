@@ -61,6 +61,20 @@ Quelques méthodes / sources, pour le reste checker [Références](../content.md
         - run Mantle (Terre) pour cherche le [Silver Grove Shrine](https://wiki.warframe.com/w/Silver_Grove_Shrine) : le lotus parle quand vous rentrez dans le bon tileset
         - utiliser vos buff loot et ouvrir 2 apothiques chacun
 
+- ??? note "Descendia (arcanes / vosphor)"
+
+        **Pourquoi** : farmer en boucle l'étage "coffres au trésor" pour échanger les ressources contre des arcanes (ventes arcanes / reroll Vosphor autres arcanes)
+
+        **Comment** :
+        
+        - faire un run complet en version normale pour vérifier les salles et débloquer les checkpoints sur la semaine en cours
+        - si une "salle au trésor" est bien placée vis-à-vis des 2 premiers checkpoints, commencer le farm :
+            - utiliser Xaku max range (+ helminth Mag avec mod augment si besoin pour loot)
+            - rentrer au checkpoint le plus proche de la salle au trésor
+            - valider l'étage de la salle au trésor, bien casser toutes les caisses / tout ramasser
+            - passer à l'étage suivant et extract directement
+            - recommencer (les loots sont enregistrés à chaque transition d'étage)
+
 - ??? note "mods corrompus"
     - check [page wiki](https://wiki.warframe.com/w/Category:Corrupted_Mods) et [video explicative](https://www.youtube.com/watch?v=f_g2lb_jTeQ)
     - vous en aurez besoin pour vos builds
