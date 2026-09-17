@@ -30,7 +30,14 @@ La sélection est déjà réduite, pour pousser encore plus loin les **top prio 
 
 ## MODS FRAME : SURVIVRE
 
-  - **vie**, **armure** & **mod Adaptation** : pour le début du steel path ça peut permettre de passer un cap. Des compétences de réduction de dégâts peuvent aider aussi. Après ça s'essouffle (lvl 1500+ en mission infinie) mais c'est pas grave du tout ici.
+  - **vie**, **armure** & **mod Adaptation** : 
+    - sans arcane : pour le début du steel path ça peut permettre de passer un cap. Des compétences de réduction de dégâts peuvent aider aussi. Après ça s'essouffle (lvl 1500+ en mission infinie) mais c'est pas grave du tout ici.
+    - avec [arcane Persistence](https://wiki.warframe.com/w/Arcane_Persistence) : tanking basé sur la vie/armure viable en lvl cap.
+      Prérequis : 
+          - minimum 700 d'armure pour l'activation. Compter 1400 d'armure pour gérer les procs de feu ou corro (1892 pour proc+corro en même temps mais très rare) réduisant l'armure. Envisager des éclats d'archonte bleus.
+          - prendre en compte les statuts magnetique et les [nullifiers](https://wiki.warframe.com/w/Nullifier_Crewman) pouvant **désactiver l'arcane (!)** : 
+              - **statut** : soit utiliser des cleanse (Molt de Saryn, mod [Roulade Parade](https://wiki.warframe.com/w/Rolling_Guard)), soit des [immunité statut](https://wiki.warframe.com/w/Status_Effect#Status_Immunity) (Scarab Armor d'Inaros, 4 d'Oraxia, lien de Trinity, helminth Spellbind de Titania / Well of life de Trinity, etc...) 
+              - **nullifiers** : avoir assez d'aoe ou des armes de melee avec beaucoup de portée et/ou statut impact. Envisager une arme à tir rapide ou pouvant annuler les boucliers (Miter avec [Neutralizing Justice](https://wiki.warframe.com/w/Neutralizing_Justice))
   - **Shieldgating** :
     - **Catalyzing Shields + Brief Respite / mods Augure** : gameplay actif/dynamique et demandeur en énergie, donc besoin d'une bonne gestion (**Flux + Equilibrium** et/ou peu d'**Efficacité** et/ou helminth **Nourish** de Grendel, par exemple)
     - **Primed Redirection + Guardian** (mod compagnon) : technique coûteuse, se complète avec Vigilante Vigor + Fast Deflection voire Arcane Aegis si on veut abuser. Pour le compagnon avec Guardian, privilégier un Diriga (Arc Coil + Guardian + Manifold Bond + Momentous Bond + (Primed) Regen, PAS d'Assault Mode) et une arme pleine de statuts (Prime Laser Rifle + Viral/Feu/Mag/Rad)
@@ -43,6 +50,7 @@ La sélection est déjà réduite, pour pousser encore plus loin les **top prio 
     - [Compagnons](pets.md) : pour les frames "caster" qui n'ont pas besoin d'utiliser d'arme (Protea, Xaku, Dante...)
         - [Shade Prime](https://wiki.warframe.com/w/Ghost) : plus solide (moins d'aggro), accès au mod Guardian
         - [Huras Kubrow](https://wiki.warframe.com/w/Stalk) : companion libre qui peut mourrir plus facilement, donne l'accès aux mods récupérateur + nuke Kubrow
+
 
 ## ÉNERGIE
 
@@ -78,6 +86,7 @@ Deux stratégie principales que l'on peut cumuler :
         - [Energy Generator](https://wiki.warframe.com/w/Energy_Generator) du compagnon Dethcube
         - [Xata Invocation](https://wiki.warframe.com/w/Xata_Invocation) du Grimoire (arme secondaire) 
         - [Rage](https://wiki.warframe.com/w/Rage) / [Hunter Adrenaline](https://wiki.warframe.com/w/Hunter_Adrenaline) : perdre de la vie revient souvent à se faire OS à un certain point en Steel Path, éviter sauf exception
+        - effet [Entropie](https://wiki.warframe.com/w/Entropy) de la faction du Céphalon Suda : passivement en obtenant de l'XP en portant des armes/mods avec l'effet, génère 25% d'énergie max pour 30s et donne 25% d'énergie. Notablement [Entropy Burst](https://wiki.warframe.com/w/Entropy_Burst) du Supra Vandal qui peut faire un fusil regen d'énergie et anti-bouclier nullifier grâce au firerate important.
 
 ## HELMINTH
 Débloquer l'[**helminth**](https://wiki.warframe.com/w/Helminth#Ability_Replacement) sur Deimos pour appliquer des pouvoirs sur d'autres frames et libérer des emplacements de frame sans les "jeter" inutilement. 
@@ -103,16 +112,16 @@ Très forts, communs & meta :
 Parfois utiles, beaucoup moins visibles/prévalents :
 
 - **dégats** (buff stats) : 
-  - [Eclipse](https://wiki.warframe.com/w/Eclipse). Augmente les dégats de base (comme un mod Serration). Fortement nerfé par le passé, peut être utile. Buff multiplicatif aux dégats appliqué après le reste. Double bonus pour les projectiles mêlée (Exodia Contagion, [Glaives](https://wiki.warframe.com/w/Glaive_(Weapon_Type)))
-  - [Thermal Sunder](https://wiki.warframe.com/w/Thermal_Sunder) de Gauss + mod augment [Thermal Transfer](https://wiki.warframe.com/w/Thermal_Transfer) pour ajouter du Blast
-  - [Shock](https://wiki.warframe.com/w/Shock) de Volt + [Shock Trooper](https://wiki.warframe.com/w/Shock_Trooper) : boost dmg électrique
-  - [Warcry](https://wiki.warframe.com/w/Warcry) de Valkyr : buff mếlée attack speed (surtout) et armure (un peu)
-  - [Breach Surge](https://wiki.warframe.com/w/Breach_Surge) de Wisp : multiplie les dégats reçus d'une cible pour les infliger sur une autre, léger CC (radiation + blind, ne touche pas les eximus)
-  - [Airburst](https://wiki.warframe.com/w/Airburst) de Zephyr + [Airbust Rounds](https://wiki.warframe.com/w/Airburst_Rounds) : buff dégats armes secondaires, nécessite de toucher beaucoup de cibles (range) souvent une anti-synergie
-- **dégats** (debuff) :
-  - [Webbed Embrace](https://wiki.warframe.com/w/Webbed_Embrace) d'Oraxia : CC zone (3 zones max) + debuff vulnérabilité (= augmentation dégats reçus)
-  - [Sentient Wrath](https://wiki.warframe.com/w/Sentient_Wrath) de Caliban: CC en cône + debuff vulnérabilité
-  - [Rest & Rage](https://wiki.warframe.com/w/Rest_%26_Rage) d'Equinox (version Jour, nécessite une couleur d'émission claire sur la frame)) : boost vitesse ennemis + debuff vulnérabilité
+    - [Eclipse](https://wiki.warframe.com/w/Eclipse). Augmente les dégats de base (comme un mod Serration). Fortement nerfé par le passé, peut être utile. Buff multiplicatif aux dégats appliqué après le reste. Double bonus pour les projectiles mêlée (Exodia Contagion, [Glaives](https://wiki.warframe.com/w/Glaive_(Weapon_Type)))
+    - [Thermal Sunder](https://wiki.warframe.com/w/Thermal_Sunder) de Gauss + mod augment [Thermal Transfer](https://wiki.warframe.com/w/Thermal_Transfer) pour ajouter du Blast
+    - [Shock](https://wiki.warframe.com/w/Shock) de Volt + [Shock Trooper](https://wiki.warframe.com/w/Shock_Trooper) : boost dmg électrique
+    - [Warcry](https://wiki.warframe.com/w/Warcry) de Valkyr : buff mếlée attack speed (surtout) et armure (un peu)
+    - [Breach Surge](https://wiki.warframe.com/w/Breach_Surge) de Wisp : multiplie les dégats reçus d'une cible pour les infliger sur une autre, léger CC (radiation + blind, ne touche pas les eximus)
+    - [Airburst](https://wiki.warframe.com/w/Airburst) de Zephyr + [Airbust Rounds](https://wiki.warframe.com/w/Airburst_Rounds) : buff dégats armes secondaires, nécessite de toucher beaucoup de cibles (range) souvent une anti-synergie
+  - **dégats** (debuff) :
+    - [Webbed Embrace](https://wiki.warframe.com/w/Webbed_Embrace) d'Oraxia : CC zone (3 zones max) + debuff vulnérabilité (= augmentation dégats reçus)
+    - [Sentient Wrath](https://wiki.warframe.com/w/Sentient_Wrath) de Caliban: CC en cône + debuff vulnérabilité
+    - [Rest & Rage](https://wiki.warframe.com/w/Rest_%26_Rage) d'Equinox (version Jour, nécessite une couleur d'émission claire sur la frame)) : boost vitesse ennemis + debuff vulnérabilité
 - **tanking** :
   - **buff** / effet frame:
     - [Molt](https://wiki.warframe.com/w/Molt) de Saryn : légère aggro (part instant), buff vitesse de course, cleanse status & cast instant (pratique pour shield-gating)
@@ -122,13 +131,15 @@ Parfois utiles, beaucoup moins visibles/prévalents :
     - [Eclipse](https://wiki.warframe.com/w/Eclipse) : 75% de réduction de dégats. Peut être partagé avec les alliés via [Total Eclipse](https://wiki.warframe.com/w/Total_Eclipse)
   - **contrôle ennemis** :
     - [Resonator](https://wiki.warframe.com/w/Resonator) d'Octavia, désactive complètement l'IA ennemie. Nécessite beaucoup de portée
+    - [Astral Shell](https://wiki.warframe.com/w/Astral_Shell) de Sirius & Orion : génère automatiquement quand touché des leurres invulnérables qui attirent les tirs sur eux sur 30m. A coupler avec un peu de regen bouclier. Compatible [arcane Sculptor](https://wiki.warframe.com/w/Arcane_Sculptor)
     - [Silence](https://wiki.warframe.com/w/Silence) de Banshee : désactive les compétences ennemies (aura eximus incluses) + court stun
     - [Shooting Gallery](https://wiki.warframe.com/w/Shooting_Gallery) de Mesa + [Muzzle Flash](https://wiki.warframe.com/w/Muzzle_Flash) : très bon CC mais ne touche plus les eximus, petit buff dmg en plus
     - [Gloom](https://wiki.warframe.com/w/Gloom) de Sevagoth, Slow important + vol de vie, gros drain d'énergie
+    - [Webbed Embrace](https://wiki.warframe.com/w/Webbed_Embrace) d'Oraxia : CC zone (3 zones max) + debuff vulnérabilité (= augmentation dégats reçus)
 - **énergie** : (hors Nourish...)
-  - [Dispensary](https://wiki.warframe.com/w/Dispensary) de Protea : génération d'orbes énergie/santé + munitions sur un point fixe
-  - [Fractured Blast](https://wiki.warframe.com/w/Fractured_Blast) de Citrine pour génération orbes santé/énergie
-  - [Lycath's Hunt](https://wiki.warframe.com/w/Lycath%27s_Hunt) de Voruna pour génération orbes santé sur attaques mếlée / énergie sur headshots (utiliser Equilibrium + mếlée)
+    - [Dispensary](https://wiki.warframe.com/w/Dispensary) de Protea : génération d'orbes énergie/santé + munitions sur un point fixe
+    - [Fractured Blast](https://wiki.warframe.com/w/Fractured_Blast) de Citrine pour génération orbes santé/énergie
+    - [Lycath's Hunt](https://wiki.warframe.com/w/Lycath%27s_Hunt) de Voruna pour génération orbes santé sur attaques mếlée / énergie sur headshots (utiliser Equilibrium + mếlée)
 
 
 ## RESISTANCE STATUS
