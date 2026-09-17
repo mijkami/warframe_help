@@ -40,12 +40,12 @@ Some methods / sources, for the rest check [References](../content.md):
 - open [relics](relics.md)
 - ??? note "apothic mods"
 
-        **Why**:
+    **Why**:
 
         - [apothic mods videos](https://www.youtube.com/results?search_query=apothic%20warframe)
         - drops of rare and expensive mods ([Growing Power](https://wiki.warframe.com/w/Growing_Power) & others)
 
-        **How**:
+    **How**:
 
         - do [Titania's quest](https://wiki.warframe.com/w/The_Silver_Grove) to get apothic blueprints
         - farm plants you're interested in (see [apothic ingredients](https://wiki.warframe.com/w/Apothic))
@@ -63,9 +63,9 @@ Some methods / sources, for the rest check [References](../content.md):
 
 - ??? note "Descendia (arcanes / vosphor)"
 
-        **Why**: farm the "treasure rooms" stage in loop to trade resources for arcanes (arcane sales / Vosphor reroll for other arcanes)
+    **Why**: farm the "treasure rooms" stage in loop to trade resources for arcanes (arcane sales / Vosphor reroll for other arcanes)
 
-        **How**:
+    **How**:
         
         - do a full normal run to check rooms and unlock checkpoints for the current week
         - if a "treasure room" is well placed relative to the first 2 checkpoints, start farming:

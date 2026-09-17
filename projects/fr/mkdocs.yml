@@ -1,0 +1,116 @@
+site_name: Warframe Help
+site_url: https://warframe.help/
+
+nav:
+  - Accueil: index.md
+  - Débutant: 
+    - beginner/index.md
+    - Warframes: beginner/warframes.md
+    - Armes: beginner/weapons.md
+    - Compagnons: beginner/pets.md
+    - Carte Céleste: beginner/starchart.md
+    - Quêtes: beginner/quests.md
+    - Missions: beginner/missions.md
+    - Rangs de Maîtrise: beginner/mastery-rank.md
+    - Réglages: beginner/settings.md
+    - Autres: beginner/misc.md
+  - Steelpath: 
+    - steelpath/index.md
+    - Warframes: steelpath/warframes.md
+    - Armes: steelpath/weapons.md
+    - Compagnons: steelpath/pets.md
+    - Armor-Strip: steelpath/armorstrip.md
+    - Acolytes: steelpath/acolytes.md
+    - Opérateur: steelpath/operator.md
+    - Autres: steelpath/misc.md
+  - Mods: 
+    - mods/index.md
+    - Warframes: mods/warframes.md
+    - Armes: mods/weapons.md
+    - Compagnons: mods/pets.md
+    - Steelpath: mods/steelpath.md
+  - Farm:
+    - farm/index.md
+    - Ressources: farm/resources.md
+    - Expérience: farm/xp.md
+    - Credits: farm/credits.md
+    - Endo: farm/endo.md
+    - Reliques: farm/relics.md
+    - Syndicats: farm/syndicates.md
+    - Autres: farm/misc.md
+    - Plats: farm/plats.md
+  - Checklist hebdomadaire : weekly-checklist.md
+  - Références: content.md
+  - À propos: about.md
+
+theme:
+  name: material
+  language: fr
+  logo: ../assets/logo.png
+  favicon: ../assets/logo.png
+  palette:
+    # Dark Mode
+    - scheme: slate
+      toggle:
+        icon: material/weather-sunny
+        name: Dark mode
+      primary: indigo
+      accent: green
+
+    # Light Mode
+    - scheme: smooth-default
+      toggle:
+        icon: material/weather-night
+        name: Light mode
+      primary: indigo
+      accent: light green 
+  features:
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - navigation.indexes
+    - toc.follow
+
+plugins:
+  - search:
+      lang: fr
+  - document-dates:
+      position: bottom
+      type: date
+      exclude: 
+        - index.md
+        - about.md
+        - drafts/*
+      date_format: '%Y-%m-%d'
+      time_format: '%H:%M:%S'
+      show_author: false
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - admonition
+  - pymdownx.details
+  - pymdownx.blocks.caption
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+
+extra_css:
+  - ../stylesheets/grid-links.css
+  - ../stylesheets/themes.css
+  - ../stylesheets/frontpage.css
+  - https://rsms.me/inter/inter.css
+
+extra_javascript:
+  - ../assets/search-filter.js
+
+analytics:
+  provider: google
+  property: G-S6S1LDV0T3
