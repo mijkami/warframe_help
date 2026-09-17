@@ -95,18 +95,18 @@ Débloquer l'[**helminth**](https://wiki.warframe.com/w/Helminth#Ability_Replace
 Très forts, communs & meta :
 
 - **dégats** (buff stats) : 
-   - **[Roar](https://wiki.warframe.com/w/Roar)** de Rhino pour booster l'anti-faction, synergise avec les dégats sur le temps (feu, blast, toxine, elec)
-   - **[Xata](https://wiki.warframe.com/w/Xata%27s_Whisper)** de Xaku pour ajouter des dégats du néant (beaucoup d'interactions + dégats de void bonus sur overguard + effet bulle magnetique)
-   - **[Nourish](https://wiki.warframe.com/w/Nourish)** de Grendel pour buff gain énergie, bonus Viral, CC léger
-   - **[Wrathful Advance](https://wiki.warframe.com/w/Wrathful_Advance)** de Kullervo pour buff crit % en mếlée, inverser le cast via préférences et viser le sol
+      - **[Roar](https://wiki.warframe.com/w/Roar)** de Rhino pour booster l'anti-faction, synergise avec les dégats sur le temps (feu, blast, toxine, elec)
+      - **[Xata](https://wiki.warframe.com/w/Xata%27s_Whisper)** de Xaku pour ajouter des dégats du néant (beaucoup d'interactions + dégats de void bonus sur overguard + effet bulle magnetique)
+      - **[Nourish](https://wiki.warframe.com/w/Nourish)** de Grendel pour buff gain énergie, bonus Viral, CC léger
+      - **[Wrathful Advance](https://wiki.warframe.com/w/Wrathful_Advance)** de Kullervo pour buff crit % en mếlée, inverser le cast via préférences et viser le sol
 - **tanking** : 
-   - **[Pillage](https://wiki.warframe.com/w/Pillage)** d'Hildryn pour gain shields + armor/shield strip + cleanse status
-   - **[Omamori](https://wiki.warframe.com/w/Omamori)** de Koumei pour pseudo-dodge (très fort en complément de dodge/shield-gating)
+      - **[Pillage](https://wiki.warframe.com/w/Pillage)** d'Hildryn pour gain shields + armor/shield strip + cleanse status
+      - **[Omamori](https://wiki.warframe.com/w/Omamori)** de Koumei pour pseudo-dodge (très fort en complément de dodge/shield-gating)
 - **armor strip** : moins prioritaire aujourd'hui, permet de rendre les ennemis plus fragiles : 
-   - **[Pillage](https://wiki.warframe.com/w/Pillage)** d'Hildryn, strip shield & armure, nécessite beaucoup de puissance (plutôt avec aura Corrosive Projection) + LoS bloqué pas les murs, long cast
-   - **[Terrify](https://wiki.warframe.com/w/Terrify)** de Nekros, armure uniquement, pas de LoS, nécessite peu de puissance, cast rapide, coûte pas mal d'énergie
-   - **[Tharros Strike](https://wiki.warframe.com/w/Tharros_Strike)** de Styanax, strip armure et shield, LoS, cast rapide, soigne de la vie, range courte
-   - **[Ophanim Eyes](https://wiki.warframe.com/w/Ophanim_Eyes)** de Jade, armure uniquement, debuff continu en cône de vision, peu d'énergie consommée + slow ennemi
+      - **[Pillage](https://wiki.warframe.com/w/Pillage)** d'Hildryn, strip shield & armure, nécessite beaucoup de puissance (plutôt avec aura Corrosive Projection) + LoS bloqué pas les murs, long cast
+      - **[Terrify](https://wiki.warframe.com/w/Terrify)** de Nekros, armure uniquement, pas de LoS, nécessite peu de puissance, cast rapide, coûte pas mal d'énergie
+      - **[Tharros Strike](https://wiki.warframe.com/w/Tharros_Strike)** de Styanax, strip armure et shield, LoS, cast rapide, soigne de la vie, range courte
+      - **[Ophanim Eyes](https://wiki.warframe.com/w/Ophanim_Eyes)** de Jade, armure uniquement, debuff continu en cône de vision, peu d'énergie consommée + slow ennemi
 
 ### Helminths niche
 Parfois utiles, beaucoup moins visibles/prévalents :

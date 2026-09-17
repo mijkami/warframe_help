@@ -95,18 +95,18 @@ Unlock [**Helminth**](https://wiki.warframe.com/w/Helminth#Ability_Replacement) 
 Very strong, common & meta:
 
 - **damage** (stat buffs): 
-   - **[Roar](https://wiki.warframe.com/w/Roar)** from Rhino to boost anti-faction, synergizes with damage over time (fire, blast, toxin, elec)
-   - **[Xata](https://wiki.warframe.com/w/Xata%27s_Whisper)** from Xaku to add Void damage (many interactions + Void bonus damage on overguard + magnetic bubble effect)
-   - **[Nourish](https://wiki.warframe.com/w/Nourish)** from Grendel to boost energy gain, Viral bonus, light CC
-   - **[Wrathful Advance](https://wiki.warframe.com/w/Wrathful_Advance)** from Kullervo to buff melee crit %, reverse the cast via preferences and aim at the ground
+      - **[Roar](https://wiki.warframe.com/w/Roar)** from Rhino to boost anti-faction, synergizes with damage over time (fire, blast, toxin, elec)
+      - **[Xata](https://wiki.warframe.com/w/Xata%27s_Whisper)** from Xaku to add Void damage (many interactions + Void bonus damage on overguard + magnetic bubble effect)
+      - **[Nourish](https://wiki.warframe.com/w/Nourish)** from Grendel to boost energy gain, Viral bonus, light CC
+      - **[Wrathful Advance](https://wiki.warframe.com/w/Wrathful_Advance)** from Kullervo to buff melee crit %, reverse the cast via preferences and aim at the ground
 - **tanking**: 
-   - **[Pillage](https://wiki.warframe.com/w/Pillage)** from Hildryn for shield gain + armor/shield strip + cleanse status
-   - **[Omamori](https://wiki.warframe.com/w/Omamori)** from Koumei for pseudo-dodge (very strong in addition to dodge/shield-gating)
+      - **[Pillage](https://wiki.warframe.com/w/Pillage)** from Hildryn for shield gain + armor/shield strip + cleanse status
+      - **[Omamori](https://wiki.warframe.com/w/Omamori)** from Koumei for pseudo-dodge (very strong in addition to dodge/shield-gating)
 - **armor strip**: less priority today, makes enemies more fragile:
-   - **[Pillage](https://wiki.warframe.com/w/Pillage)** from Hildryn, shield and armor strip, requires lots of power (rather with Corrosive Projection aura) + blocked by walls, long cast
-   - **[Terrify](https://wiki.warframe.com/w/Terrify)** from Nekros, armor only, no LoS, requires little power, fast cast, costs quite a lot of energy
-   - **[Tharros Strike](https://wiki.warframe.com/w/Tharros_Strike)** from Styanax, armor and shield strip, LoS, fast cast, heals health, short range
-   - **[Ophanim Eyes](https://wiki.warframe.com/w/Ophanim_Eyes)** from Jade, armor only, continuous debuff in vision cone, little energy consumed + enemy slow
+      - **[Pillage](https://wiki.warframe.com/w/Pillage)** from Hildryn, shield and armor strip, requires lots of power (rather with Corrosive Projection aura) + blocked by walls, long cast
+      - **[Terrify](https://wiki.warframe.com/w/Terrify)** from Nekros, armor only, no LoS, requires little power, fast cast, costs quite a lot of energy
+      - **[Tharros Strike](https://wiki.warframe.com/w/Tharros_Strike)** from Styanax, armor and shield strip, LoS, fast cast, heals health, short range
+      - **[Ophanim Eyes](https://wiki.warframe.com/w/Ophanim_Eyes)** from Jade, armor only, continuous debuff in vision cone, little energy consumed + enemy slow
 
 ### Niche Helminth Abilities
 Sometimes useful, much less visible/prevalent:
