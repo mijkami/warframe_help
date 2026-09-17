@@ -12,6 +12,7 @@ virtualenv venv
 source venv/bin/activate 
 pip install mkdocs mkdocs-material-extensions pymdown-extensions mkdocs-material
 pip install mkdocs-document-dates
+pip install mkdocs-static-i18n
 #pip install mkdocs-macros-plugin
 
 ## About

@@ -58,7 +58,7 @@ Nécessite d'avoir fait toutes les quêtes principales jusqu'aux Hex et monté a
         - éclat d'archonte occasionnel
         - [booster drop de mods](https://wiki.warframe.com/w/Mod_Drop_Chance_Booster) qui aide au farm de certains mods (ex Orb Vallis) et arcanes (drops Cascade)
         - schéma Catalyste / Reacteur : équivalent à 20 plat en boutique, à voir si cela vaut les 25-35mn pour faire une rotation complète ou farmer autre chose
-    - intérêt version normale : potentiel [farm](../farm/plats/#bons-plans) arcanes / vosphor
+    - intérêt version normale : potentiel [farm](farm/plats.md#bons-plans) arcanes / vosphor
 
 
 - __1999__ :
