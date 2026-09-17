@@ -84,67 +84,71 @@ plugins:
       time_format: '%H:%M:%S'  # Time format strings (valid only if type=datetime)
       show_author: false        # Show author or not, default: true
   - i18n:
-      default_language: fr
+      docs_structure: suffix
       languages:
-        fr: Français
-        en: English
-      translate_nav:
-        fr:
-          Accueil: Accueil
-          Débutant: Débutant
-          Warframes: Warframes
-          Armes: Armes
-          Compagnons: Compagnons
-          Carte Céleste: Carte Céleste
-          Quêtes: Quêtes
-          Missions: Missions
-          Rangs de Maîtrise: Rangs de Maîtrise
-          Réglages: Réglages
-          Autres: Autres
-          Steelpath: Steelpath
-          Armor-Strip: Armor-Strip
-          Acolytes: Acolytes
-          Opérateur: Opérateur
-          Mods: Mods
-          Farm: Farm
-          Ressources: Ressources
-          Expérience: Expérience
-          Credits: Credits
-          Endo: Endo
-          Reliques: Reliques
-          Syndicats: Syndicats
-          Plats: Plats
-          Checklist hebdomadaire: Checklist hebdomadaire
-          Références: Références
-          À propos: À propos
-        en:
-          Accueil: Home
-          Débutant: Beginner
-          Warframes: Warframes
-          Armes: Weapons
-          Compagnons: Companions
-          Carte Céleste: Starchart
-          Quêtes: Quests
-          Missions: Missions
-          Rangs de Maîtrise: Mastery Rank
-          Réglages: Settings
-          Autres: Misc
-          Steelpath: Steelpath
-          Armor-Strip: Armor-Strip
-          Acolytes: Acolytes
-          Opérateur: Operator
-          Mods: Mods
-          Farm: Farming
-          Ressources: Resources
-          Expérience: Experience
-          Credits: Credits
-          Endo: Endo
-          Reliques: Relics
-          Syndicats: Syndicates
-          Plats: Platinum
-          Checklist hebdomadaire: Weekly Checklist
-          Références: References
-          À propos: About
+        - locale: fr
+          name: Français
+          default: true
+          link: /
+          nav_translations:
+            Accueil: Accueil
+            Débutant: Débutant
+            Warframes: Warframes
+            Armes: Armes
+            Compagnons: Compagnons
+            Carte Céleste: Carte Céleste
+            Quêtes: Quêtes
+            Missions: Missions
+            Rangs de Maîtrise: Rangs de Maîtrise
+            Réglages: Réglages
+            Autres: Autres
+            Steelpath: Steelpath
+            Armor-Strip: Armor-Strip
+            Acolytes: Acolytes
+            Opérateur: Opérateur
+            Mods: Mods
+            Farm: Farm
+            Ressources: Ressources
+            Expérience: Expérience
+            Credits: Credits
+            Endo: Endo
+            Reliques: Reliques
+            Syndicats: Syndicats
+            Plats: Plats
+            Checklist hebdomadaire: Checklist hebdomadaire
+            Références: Références
+            À propos: À propos
+        - locale: en
+          name: English
+          link: /en/
+          nav_translations:
+            Accueil: Home
+            Débutant: Beginner
+            Warframes: Warframes
+            Armes: Weapons
+            Compagnons: Companions
+            Carte Céleste: Starchart
+            Quêtes: Quests
+            Missions: Missions
+            Rangs de Maîtrise: Mastery Rank
+            Réglages: Settings
+            Autres: Misc
+            Steelpath: Steelpath
+            Armor-Strip: Armor-Strip
+            Acolytes: Acolytes
+            Opérateur: Operator
+            Mods: Mods
+            Farm: Farming
+            Ressources: Resources
+            Expérience: Experience
+            Credits: Credits
+            Endo: Endo
+            Reliques: Relics
+            Syndicats: Syndicates
+            Plats: Platinum
+            Checklist hebdomadaire: Weekly Checklist
+            Références: References
+            À propos: About
 
 extra:
   analytics:

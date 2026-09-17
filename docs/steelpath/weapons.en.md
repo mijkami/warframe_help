@@ -4,7 +4,7 @@
 
 Focus on **a small pool of well-modded weapons**.
 
-Do the [Steel Path circuit](../weekly-checklist.md/#joueurs-confirmes) to get [Incarnons](#incarnons) (with decrees and in group it happens early), or [Liches](#lich-weapon-choices) for some weapons. Outside of the circuit, Incarnon weapons from [Zariman](../farm/syndicates.md/#syndicats-a-mini-hubs) are also very good.
+Do the [Steel Path circuit](../weekly-checklist.en.md#confirmed-players) to get [Incarnons](#incarnons) (with decrees and in group it happens early), or [Liches](#lich-weapon-choices) for some weapons. Outside of the circuit, Incarnon weapons from [Zariman](../farm/syndicates.en.md#mini-hub-syndicates) are also very good.
 
 ## **Recommended Weapons**
 Classified by Mastery Rank (MR) for better readability. Does not indicate power but only the level required to access.

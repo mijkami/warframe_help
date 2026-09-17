@@ -21,7 +21,7 @@ The [resource booster](https://wiki.warframe.com/w/Resource_Booster) (orange) is
 
 Source of resource booster:
 
-- [farm frames](../beginner/warframes.md/#frames-de-farm)
+- [farm frames](../beginner/warframes.en.md#farm-frames)
 - [companions](../beginner/pets.md)
 - market: [resource booster](https://wiki.warframe.com/w/Resource_Booster). Costs plats, after that slot purchase is a priority buy that will allow you to accelerate your resource farm AND your plat farm (virtuous circle). 30-day boosters are the most cost-effective in cost/day.
 - [endless relics](https://wiki.warframe.com/w/Void_Fissure#Endless_Missions) (survival, defense...) : accumulates up to +100% resource drop chances

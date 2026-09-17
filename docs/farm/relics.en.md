@@ -60,9 +60,9 @@ Relics are an essential resource for improving your Arsenal, opening them is an 
     - Axi: Apollo on Lua
 - **Relic Packs:**
 You can buy from certain syndicates random packs of 3 relics, very good source. Reputation can be saved for new prime frame releases.
-    - [base syndicates](syndicates.md/#syndicats-de-base)
-    - [open-world syndicates](syndicates.md/#syndicats-open-world)
-    - Teshin's relay shop ([Steel Path - Steel Essence](../steelpath/index.md/#essence-dacier))
+    - [base syndicates](syndicates.en.md#base-syndicates)
+    - [open-world syndicates](syndicates.en.md#open-world-syndicates)
+    - Teshin's relay shop ([Steel Path - Steel Essence](../steelpath/index.en.md#steel-essence))
 
 ---------------
 

@@ -9,7 +9,7 @@ They complement your builds via different bonuses:
     - **Enemy / resource radar** ([Animal Instinct](https://wiki.warframe.com/w/Animal_Instinct) / [Primed Animal Instinct](https://wiki.warframe.com/w/Primed_Animal_Instinct)
     - **boost [loot](https://wiki.warframe.com/w/Category:Retriever_Mods) resources / credits**
     - survivability
-    - **[energy](warframes.md/#energie) generation**: [Synth Deconstruct](https://wiki.warframe.com/w/Synth_Deconstruct) / [Dig](https://wiki.warframe.com/w/Dig) / [Energy Generator](https://wiki.warframe.com/w/Energy_Generator) / [Archon Stretch](https://wiki.warframe.com/w/Archon_Stretch) + [Arc Coil](https://wiki.warframe.com/w/Arc_Coil) or electric claw mod
+    - **[energy](warframes.en.md#energy) generation**: [Synth Deconstruct](https://wiki.warframe.com/w/Synth_Deconstruct) / [Dig](https://wiki.warframe.com/w/Dig) / [Energy Generator](https://wiki.warframe.com/w/Energy_Generator) / [Archon Stretch](https://wiki.warframe.com/w/Archon_Stretch) + [Arc Coil](https://wiki.warframe.com/w/Arc_Coil) or electric claw mod
     - control:
         - skills: [Arc Coil](https://wiki.warframe.com/w/Arc_Coil) from Diriga
         - weapons: [Tazicor](https://wiki.warframe.com/w/Tazicor) + [Duplex Bond](https://wiki.warframe.com/w/Duplex_Bond) + CC status (fire / cold / electric)

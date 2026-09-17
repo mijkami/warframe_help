@@ -8,4 +8,4 @@ Basic principle:
 - get [companion mods](https://wiki.warframe.com/w/Companion_Mods): [bond mods](https://wiki.warframe.com/w/Bond_Mods), [claw mods](https://wiki.warframe.com/w/Beast_Claws_Mods), [retriever mods](https://wiki.warframe.com/w/Category:Retriever_Mods), [radars](https://wiki.warframe.com/w/Primed_Animal_Instinct), [Synth Deconstruct](https://wiki.warframe.com/w/Synth_Deconstruct), [Guardian](https://wiki.warframe.com/w/Guardian)...
 - get mods from [Augur](https://wiki.warframe.com/w/Category:Augur_Mods) and [Hunter](https://wiki.warframe.com/w/Hunter_Set) set
 
-See more info: [Mods: survival](weapons.md/#mods-arme-survivre) and [Mods: damage](weapons.md).
+See more info: [Mods: survival](weapons.en.md#weapon-mods-survival) and [Mods: damage](weapons.en.md).
