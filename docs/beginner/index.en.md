@@ -6,7 +6,7 @@
 
     ---
 
-    Choose your first frames
+    Pick your first frames
 
     [:octicons-arrow-right-24: Warframes](warframes.md)
 
@@ -14,7 +14,7 @@
 
     ---
 
-    Choose your first weapons
+    Pick your first weapons
 
     [:octicons-arrow-right-24: Weapons](weapons.md)
 
@@ -30,7 +30,7 @@
 
     ---
 
-    To advance in parallel
+    To progress in parallel
 
     [:octicons-arrow-right-24: Quests](quests.md)
 

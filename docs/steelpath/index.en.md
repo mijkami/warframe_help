@@ -6,7 +6,7 @@
 
     ---
 
-    Choose a frame
+    Pick a frame
 
     [:octicons-arrow-right-24: Frames](warframes.md)
 
@@ -14,7 +14,7 @@
 
     ---
 
-    Choose a weapon
+    Pick a weapon
 
     [:octicons-arrow-right-24: Weapons](weapons.md)
 
@@ -22,7 +22,7 @@
 
     ---
 
-    Choose a companion
+    Pick a companion
 
     [:octicons-arrow-right-24: Companions](pets.md)
 
