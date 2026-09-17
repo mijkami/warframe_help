@@ -1,10 +1,10 @@
 # Opérateur
 
 ## **Focus**
-- Unairu permet de te rendre insensible à certains contrôles (Poise, premier talent) et de te rez en Tenno (Last Gasp)
-- Vazarin peut te rendre invincible (Protective Sling)
-- Zenurik pour la regen energie si besoin (trouver d'autres sources au plus vite)
-- Madurai utile pour les dégats d'opérateur plus tard dans le jeu (boost dégâts tenno + bonus puissance/vitesse cast pour frame)
+- **Unairu** permet de te rendre insensible à certains contrôles (Poise, premier talent) et de te rez en Tenno (Last Gasp)
+- **Vazarin** peut te rendre invincible (Protective Sling)
+- **Zenurik** pour la regen energie si besoin (trouver d'autres sources au plus vite)
+- **Madurai** utile pour les dégats d'opérateur plus tard dans le jeu (boost dégâts tenno + bonus puissance/vitesse cast pour frame)
 
 ---------- 
 
