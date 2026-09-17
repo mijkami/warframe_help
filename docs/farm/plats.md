@@ -84,7 +84,7 @@ Quelques méthodes / sources, pour le reste checker [Références](../content.md
         - les plans des clés se trouvent dans les dojo : rejoindre un clan et aller dans le labo orokin
         - possible de faire les runs en solo, de préférence avec une frame rapide (titania/nezha)
         - conseillé de faire les runs en groupe : réduit la charge des clés et accélère les runs pour trouver les portes
-- farm Aya Cetus (groupe) ou Deimos (Brute Force rang max solo ou à 2
+- farm Aya Cetus (groupe) ou Deimos (Brute Force rang max solo ou à 2)
 - farm [Captain Vor](https://www.youtube.com/watch?v=6DH_xGhMAfg)
 - farm endurance Steel Path :
     -  Cascade + booster mod si possible (+ drops arcanes)

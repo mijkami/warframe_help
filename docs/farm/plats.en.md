@@ -84,7 +84,7 @@ Some methods / sources, for the rest check [References](../content.md):
         - key blueprints are found in Dojos: join a clan and go to the Orokin lab
         - possible to do runs solo, preferably with a fast frame (Titania/Nezha)
         - recommended to do runs in group: reduces key charge and speeds up runs to find doors
-- farm Aya Cetus (group) or Deimos (Brute Force max rank solo or duo
+- farm Aya Cetus (group) or Deimos (Brute Force max rank solo or duo)
 - farm [Captain Vor](https://www.youtube.com/watch?v=6DH_xGhMAfg)
 - farm Steel Path endurance:
     - Cascade + mod booster if possible (+ arcane drops)
