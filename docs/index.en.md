@@ -14,8 +14,8 @@ hide:
       </p>
     </div>
     <div class="right-content" markdown="0">
-      <p class="subtitle2">Multi-lingual :
-        <a href="/fr/" class="lang-link">français</a> •
+      <p class="subtitle2">Multi-lingual:
+        <a href="/" class="lang-link">français</a> •
         <a href="/en/" class="lang-link">english</a>.
         </s>
       </p>

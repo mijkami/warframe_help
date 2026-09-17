@@ -14,11 +14,9 @@ hide:
       </p>
     </div>
     <div class="right-content" markdown="0">
-      <p class="subtitle2">Multi-lingual (soon) :
-        <s>
-        <a href="/fr/" class="lang-link" onclick="return false">français</a> •
+      <p class="subtitle2">Multi-lingual:
+        <a href="/" class="lang-link" onclick="return false">français</a> •
         <a href="/en/" class="lang-link" onclick="return false">english</a>.
-        </s>
       </p>
       <img src="assets/logo.png" alt="Logo" class="inverted-logo">
     </div>
