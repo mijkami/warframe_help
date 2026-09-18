@@ -3,11 +3,11 @@
 # Crédits
 
 Vous permettra surtout d'acheter vos plans dans le market et monter vos mods.
-Servira aussi plus tard pour les [mods prime] en les achetant chez le [Baro Ki'teer](https://wiki.warframe.com/w/Baro_Ki%27Teer) ou échangeant avec d'autres joueurs (taxe de trade élevée en crédits).
+Servira aussi plus tard pour les [mods prime](https://wiki.warframe.com/w/Primed_Mods) en les achetant chez le [Baro Ki'teer](https://wiki.warframe.com/w/Baro_Ki%27Teer) ou échangeant avec d'autres joueurs (attention, l'acheteur doit quand même s'acquitter d'une taxe d'un million de crédits par mod prime).
 
 ## **Boosters**
 
-Tous les boosters de crédits se cumule, ne vous privez pas et utilisez-en un maximum !
+Tous les boosters de crédits se cumulent, ne vous privez pas et utilisez-en un maximum !
 
 - vous pouvez obtenir un mod [Récupérateur](https://wiki.warframe.com/w/Category:Retriever_Mods) pour vos compagnons animaux qui donne une chance de doubler les crédits ramassés sur les ennemis
 - la première mission de chaque journée a un boost de x2 sur les crédits ramassés

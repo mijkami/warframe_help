@@ -3,7 +3,7 @@
 # Credits
 
 Will mainly allow you to buy your blueprints in the Market and level up your mods.
-Will also serve later for [Prime mods](plats.md) by buying them from [Baro Ki'teer](https://wiki.warframe.com/w/Baro_Ki%27Teer) or trading with other players (high trade tax in credits).
+Will also serve later for [Primed mods](https://wiki.warframe.com/w/Primed_Mods) bought from [Baro Ki'teer](https://wiki.warframe.com/w/Baro_Ki%27Teer) or traded with other players (careful, the recipient still has to spend a 1 million trade tax in credits).
 
 ## **Boosters**
 
