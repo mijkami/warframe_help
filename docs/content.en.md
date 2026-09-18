@@ -42,7 +42,7 @@ You read a line about modding, you can search "[warframe how to mod / modding](h
 
 ## Discord
 
-- [Cascade Club](http://discord.gg/cascade): contains nice level cap builds, in 2 groups:
+- [Cascade Club](http://discord.gg/cascade): contains nice level cap builds ([complete gdocs](https://docs.google.com/document/d/1JVx4BrHfKaGF39SS676Jla5h2qUIHV-q2wfIFCYGOlk/edit?tab=t.0)), in 2 groups:
     - endorsed-builds: builds validated by organizers and top community members
     - community-builds: community builds, follow your intuition and the volume of votes/discussion to find gems
 - [Vaulted Relic Community (Burner)](https://discord.gg/vaultedrelics)

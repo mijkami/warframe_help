@@ -87,7 +87,7 @@ Quelques méthodes / sources, pour le reste checker [Références](../content.md
 - farm Aya Cetus (groupe) ou Deimos (Brute Force rang max solo ou à 2)
 - farm [Captain Vor](https://www.youtube.com/watch?v=6DH_xGhMAfg)
 - farm endurance Steel Path :
-    -  Cascade + booster mod si possible (+ drops arcanes)
+    -  Cascade ([gdocs](https://docs.google.com/document/d/1JVx4BrHfKaGF39SS676Jla5h2qUIHV-q2wfIFCYGOlk/edit?tab=t.0)) + booster mod si possible (+ drops arcanes)
     -  Défense
     -  Perturbation/Disruption (Kappa)
     -  [Arbitrage](https://www.youtube.com/watch?v=xegoFob-KhI&pp=ygUNd2FyZnJhbWUgcGxhdNIHCQnHCQGHKiGM7w%3D%3D)

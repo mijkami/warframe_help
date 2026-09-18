@@ -42,7 +42,7 @@ Vous lisez une ligne sur le modding, vous pouvez chercher "[warframe how to mod 
 
 ## Discord
 
-- [Cascade Club](http://discord.gg/cascade) : contient des builds lvl cap très sympas, en 2 groupes :
+- [Cascade Club](http://discord.gg/cascade) : contient des builds lvl cap très sympas ([gdocs complet](https://docs.google.com/document/d/1JVx4BrHfKaGF39SS676Jla5h2qUIHV-q2wfIFCYGOlk/edit?tab=t.0)), en 2 groupes :
     - endorsed-builds : builds validés par les organisateurs et le top de la commu
     - community-builds : builds communautaires, suivre son intuition et le volume de votes/discussion pour trouver des perles
 - [Vaulted Relic Community (Burner)](https://discord.gg/vaultedrelics)
