@@ -72,7 +72,10 @@ theme:
     - toc.follow
 
 plugins:
-  - search
+  - search  
+  - privacy:
+      links_attr_map:
+        target: _blank
   - document-dates:
       position: bottom         # Display position: top (after title)  bottom (end of document)
       type: date               # Date type: date  datetime  timeago, default: date
