@@ -29,7 +29,7 @@ The operator can contribute to warframe survival:
 ---------- 
 
 ## **Amplifiers** 
-We describe [amplifiers](https://wiki.warframe.com/w/Amp) by the number of the Prism, Scaffold (Support) and Brace (Atelle) parts, example 111 = Raplak Pencha Clapkra. Meta amplifiers:
+We describe [amplifiers](https://wiki.warframe.com/w/Amp) by the number of the Prism, Scaffold and Brace parts, example 111 = Raplak Pencha Clapkra. Meta amplifiers:
 
 | Code | Part Names | Utility | Usage |
 | ----------------- | ------------------------------------ | ---------------------------------------------------| ------------------------------------|
