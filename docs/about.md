@@ -8,7 +8,8 @@ Les images présentes sont issues du site et du [wiki officiel](https://wiki.war
 
 ------------------
 
-Le site sera bientôt traduit en anglais et ouvert aux contributions d'autres auteurs.
+Le site est en cours de traduction fr -> en.
+Il est ouvert aux contributions d'autres auteurs, prenez contact.
 
 Vous pouvez contacter **Mijka**, l'auteur du site et des guides actuels sur :
 

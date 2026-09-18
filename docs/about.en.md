@@ -8,7 +8,8 @@ The images present are from the site and the [official wiki](https://wiki.warfra
 
 ------------------
 
-The site will soon be translated into English and opened to contributions from other authors.
+The site is under translation from french to english, some pages might have slightly garbled sentences and are being fixed.
+Contributions from others are opened, contact me if you wish to.
 
 You can contact **Mijka**, the author of the site and current guides on:
 
