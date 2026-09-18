@@ -258,7 +258,7 @@ Add Tenet weapons available via [Holokeys](https://wiki.warframe.com/w/Corrupted
       ```
 
 
-!!! note "Corpus Liches (Sisters of Parvos / Tenet)"
+??? note "Corpus Liches (Sisters of Parvos / Tenet)"
 
       - be MR5 minimum, have done [The War Within](https://wiki.warframe.com/w/The_War_Within) and [Call of the Tempestarii](https://wiki.warframe.com/w/Call_of_the_Tempestarii)
       - spawn a [Candidate](https://wiki.warframe.com/w/Candidate)
@@ -312,7 +312,7 @@ Add Tenet weapons available via [Holokeys](https://wiki.warframe.com/w/Corrupted
       ```
 
 
-!!! note "Infested Liches (Coda)"
+??? note "Infested Liches (Coda)"
 
       - no MR minimum, must have done the [Hex](https://wiki.warframe.com/w/The_Hex_(Quest)) quest (last main quest currently).
       - MR 17 required to buy Coda weapons
