@@ -1,0 +1,201 @@
+.header {
+  overflow-x: hidden !important;
+}
+
+.home-page {
+  max-width: 88%;
+  margin: 0 auto;
+  padding: 0 1.5rem;
+  position: relative;
+  overflow:  hidden !important;
+}
+
+/* Logo en arrière-plan (angle supérieur droit) */
+.background-logo {
+  position: absolute;
+  top: 0;
+  right: 100px; /* Décale de 100px vers la gauche */
+  width: 400px;
+  height: 400px;
+  background-image: url('../assets/logo.png');
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: top right;
+  opacity: 0.3;
+  transform: rotate(20deg) scaleX(-1.15) scaleY(0.90) translateX(110px) translateY(-25px); /* Décalage supplémentaire vers la gauche */
+  transform-origin: top right;
+  z-index: -1;
+  pointer-events: none;
+}
+
+[data-md-color-scheme="slate"] .background-logo {
+  filter: sepia(100%) saturate(200%) hue-rotate(200deg) brightness(100%) opacity(40%) blur(2px);
+}
+
+[data-md-color-scheme="smooth-default"] .background-logo {
+  filter: sepia(100%) saturate(200%) hue-rotate(200deg) brightness(100%) opacity(100%);
+}
+
+
+/* Assure que le logo ne dépasse pas */
+.background-logo img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+/* Ajustement pour mobile */
+@media (max-width: 768px) {
+  .background-logo {
+    width: 250px;
+    height: 250px;
+    opacity: 0.2;
+  }
+}
+
+
+.subtitle {
+    font-size: 1.30rem;
+}
+
+
+.subtitle2 {
+  margin: 0;
+  text-align: right;
+  line-height: 1.2; 
+  align-self: flex-start; 
+}
+
+.subtitle2 .lang-link {
+  color: inherit !important; 
+  text-decoration: underline; 
+  font-weight: 500; 
+  transition: color 0.2s ease;
+}
+
+.subtitle2 .lang-link:hover {
+  color: var(--md-primary-fg-color) !important; 
+  text-decoration: none;
+}
+
+
+/* Conteneur principal */
+.header-section {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start; /* Alignement en haut */
+  margin-bottom: 2rem;
+}
+
+/* Conteneur du texte (titre) */
+.text-content {
+  flex: 1;
+  min-width: 300px;
+}
+
+/* Conteneur de droite (langues + logo) */
+.right-content {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end; /* Tout à droite */
+  gap: 0.3rem; /* Espace minimal entre langues et logo */
+}
+
+.inverted-logo {
+  display:none !important;
+}
+
+/* Logo étiré en largeur */
+.inverted-logo {
+  height: 20px; /* Hauteur fixe (ajuste selon ton logo) */
+  width: 65%; /* Largeur automatique */
+  transform: scaleX(-1.09);
+  transform-origin: center; /* Centre de la transformation */
+  filter: brightness(85%);
+  opacity: 75%;
+}
+
+
+/* Dégradé pour le thème clair (default) - lettres uniquement */
+[data-md-color-scheme="smooth-default"] .custom-gradient-title {
+  background: linear-gradient(90deg, #0066ff, #00ccff);
+  background-clip: text !important;
+  color: transparent !important;
+  text-shadow:
+    0.5px 0 0 rgba(0, 0, 0, 0.11),
+    -0.5px 0 0 rgba(0, 0, 0, 0.11),
+    0 0.5px 0 rgba(0, 0, 0, 0.11),
+    0 -0.5px 0 rgba(0, 0, 0, 0.05);
+}
+
+/* Dégradé pour le thème sombre (slate) - lettres uniquement */
+[data-md-color-scheme="slate"] .custom-gradient-title {
+  background: linear-gradient(90deg, #006aff, #ff00f2); 
+  -webkit-background-clip: text !important;
+  background-clip: text !important;
+  text-shadow:
+    0.5px 0 0 rgba(0, 0, 0, 0.07),
+    -0.5px 0 0 rgba(0, 0, 0, 0.07),
+    0 0.5px 0 rgba(0, 0, 0, 0.08),
+    0 -0.5px 0 rgba(0, 0, 0, 0.08);
+}
+
+
+/* Styles communs pour le titre (épais, haut, aligné) */
+.custom-gradient-title {
+  font-family: 'Inter', sans-serif !important;
+  font-weight: 900 !important;
+  font-size: 2.5rem !important;
+  text-align: left;
+  margin: 0 0 0.2rem 0 !important;
+  padding-left: 0;
+  line-height: 1.4;
+  letter-spacing: -0.03em;
+  transform: scaleY(1.05);
+  display: inline-block;
+}
+
+.custom-gradient-title + p {
+  margin-top: 0.25rem !important;
+}
+
+@media (max-width: 768px) {
+  .custom-gradient-title {
+    font-size: 2rem !important;
+  }
+  .header-section {
+    justify-content: flex-start;
+    text-align: center;
+    flex-wrap: wrap;
+  }
+  .text-content {
+    flex: none;
+    width: 100%;
+  }
+  .logo-content {
+    justify-content: center;
+  }
+}
+
+
+.narrow-cards li > p:first-child strong {
+  font-size: 1.4rem !important;
+  font-weight: 600 !important;
+  display: block !important;
+  margin: 0.2rem 0 0.5rem 0 !important;
+  line-height: 1.3 !important;
+}
+
+
+.narrow-cards li > p:nth-child(3) {
+  font-weight: 400 !important;
+  font-size: 0.95rem !important;
+  color: var(--md-default-fg-color--light) !important;
+  margin: 0 0 0.6rem 0 !important;
+}
+
+
+[data-md-color-scheme="slate"] .narrow-cards li > p:nth-child(3) {
+  color: var(--md-default-fg-color--dark) !important;
+  opacity: 0.9 !important;
+}

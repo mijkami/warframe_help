@@ -1,0 +1,507 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+        <loc>https://warframe.help/</loc>
+        <lastmod>2026-09-19</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://warframe.help/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://warframe.help/en/"/>
+    </url>
+    <url>
+        <loc>https://warframe.help/about/</loc>
+        <lastmod>2026-09-19</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://warframe.help/about/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://warframe.help/en/about/"/>
+    </url>
+    <url>
+        <loc>https://warframe.help/content/</loc>
+        <lastmod>2026-09-19</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://warframe.help/content/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://warframe.help/en/content/"/>
+    </url>
+    <url>
+        <loc>https://warframe.help/weekly-checklist/</loc>
+        <lastmod>2026-09-19</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://warframe.help/weekly-checklist/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://warframe.help/en/weekly-checklist/"/>
+    </url>
+    <url>
+        <loc>https://warframe.help/beginner/</loc>
+        <lastmod>2026-09-19</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://warframe.help/beginner/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://warframe.help/en/beginner/"/>
+    </url>
+    <url>
+        <loc>https://warframe.help/beginner/mastery-rank/</loc>
+        <lastmod>2026-09-19</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://warframe.help/beginner/mastery-rank/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://warframe.help/en/beginner/mastery-rank/"/>
+    </url>
+    <url>
+        <loc>https://warframe.help/beginner/misc/</loc>
+        <lastmod>2026-09-19</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://warframe.help/beginner/misc/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://warframe.help/en/beginner/misc/"/>
+    </url>
+    <url>
+        <loc>https://warframe.help/beginner/missions/</loc>
+        <lastmod>2026-09-19</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://warframe.help/beginner/missions/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://warframe.help/en/beginner/missions/"/>
+    </url>
+    <url>
+        <loc>https://warframe.help/beginner/pets/</loc>
+        <lastmod>2026-09-19</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://warframe.help/beginner/pets/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://warframe.help/en/beginner/pets/"/>
+    </url>
+    <url>
+        <loc>https://warframe.help/beginner/quests/</loc>
+        <lastmod>2026-09-19</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://warframe.help/beginner/quests/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://warframe.help/en/beginner/quests/"/>
+    </url>
+    <url>
+        <loc>https://warframe.help/beginner/settings/</loc>
+        <lastmod>2026-09-19</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://warframe.help/beginner/settings/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://warframe.help/en/beginner/settings/"/>
+    </url>
+    <url>
+        <loc>https://warframe.help/beginner/starchart/</loc>
+        <lastmod>2026-09-19</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://warframe.help/beginner/starchart/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://warframe.help/en/beginner/starchart/"/>
+    </url>
+    <url>
+        <loc>https://warframe.help/beginner/warframes/</loc>
+        <lastmod>2026-09-19</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://warframe.help/beginner/warframes/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://warframe.help/en/beginner/warframes/"/>
+    </url>
+    <url>
+        <loc>https://warframe.help/beginner/weapons/</loc>
+        <lastmod>2026-09-19</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://warframe.help/beginner/weapons/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://warframe.help/en/beginner/weapons/"/>
+    </url>
+    <url>
+        <loc>https://warframe.help/farm/</loc>
+        <lastmod>2026-09-19</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://warframe.help/farm/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://warframe.help/en/farm/"/>
+    </url>
+    <url>
+        <loc>https://warframe.help/farm/credits/</loc>
+        <lastmod>2026-09-19</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://warframe.help/farm/credits/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://warframe.help/en/farm/credits/"/>
+    </url>
+    <url>
+        <loc>https://warframe.help/farm/endo/</loc>
+        <lastmod>2026-09-19</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://warframe.help/farm/endo/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://warframe.help/en/farm/endo/"/>
+    </url>
+    <url>
+        <loc>https://warframe.help/farm/misc/</loc>
+        <lastmod>2026-09-19</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://warframe.help/farm/misc/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://warframe.help/en/farm/misc/"/>
+    </url>
+    <url>
+        <loc>https://warframe.help/farm/plats/</loc>
+        <lastmod>2026-09-19</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://warframe.help/farm/plats/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://warframe.help/en/farm/plats/"/>
+    </url>
+    <url>
+        <loc>https://warframe.help/farm/relics/</loc>
+        <lastmod>2026-09-19</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://warframe.help/farm/relics/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://warframe.help/en/farm/relics/"/>
+    </url>
+    <url>
+        <loc>https://warframe.help/farm/resources/</loc>
+        <lastmod>2026-09-19</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://warframe.help/farm/resources/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://warframe.help/en/farm/resources/"/>
+    </url>
+    <url>
+        <loc>https://warframe.help/farm/syndicates/</loc>
+        <lastmod>2026-09-19</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://warframe.help/farm/syndicates/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://warframe.help/en/farm/syndicates/"/>
+    </url>
+    <url>
+        <loc>https://warframe.help/farm/xp/</loc>
+        <lastmod>2026-09-19</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://warframe.help/farm/xp/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://warframe.help/en/farm/xp/"/>
+    </url>
+    <url>
+        <loc>https://warframe.help/mods/</loc>
+        <lastmod>2026-09-19</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://warframe.help/mods/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://warframe.help/en/mods/"/>
+    </url>
+    <url>
+        <loc>https://warframe.help/mods/pets/</loc>
+        <lastmod>2026-09-19</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://warframe.help/mods/pets/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://warframe.help/en/mods/pets/"/>
+    </url>
+    <url>
+        <loc>https://warframe.help/mods/steelpath/</loc>
+        <lastmod>2026-09-19</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://warframe.help/mods/steelpath/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://warframe.help/en/mods/steelpath/"/>
+    </url>
+    <url>
+        <loc>https://warframe.help/mods/warframes/</loc>
+        <lastmod>2026-09-19</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://warframe.help/mods/warframes/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://warframe.help/en/mods/warframes/"/>
+    </url>
+    <url>
+        <loc>https://warframe.help/mods/weapons/</loc>
+        <lastmod>2026-09-19</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://warframe.help/mods/weapons/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://warframe.help/en/mods/weapons/"/>
+    </url>
+    <url>
+        <loc>https://warframe.help/steelpath/</loc>
+        <lastmod>2026-09-19</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://warframe.help/steelpath/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://warframe.help/en/steelpath/"/>
+    </url>
+    <url>
+        <loc>https://warframe.help/steelpath/acolytes/</loc>
+        <lastmod>2026-09-19</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://warframe.help/steelpath/acolytes/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://warframe.help/en/steelpath/acolytes/"/>
+    </url>
+    <url>
+        <loc>https://warframe.help/steelpath/armorstrip/</loc>
+        <lastmod>2026-09-19</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://warframe.help/steelpath/armorstrip/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://warframe.help/en/steelpath/armorstrip/"/>
+    </url>
+    <url>
+        <loc>https://warframe.help/steelpath/misc/</loc>
+        <lastmod>2026-09-19</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://warframe.help/steelpath/misc/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://warframe.help/en/steelpath/misc/"/>
+    </url>
+    <url>
+        <loc>https://warframe.help/steelpath/operator/</loc>
+        <lastmod>2026-09-19</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://warframe.help/steelpath/operator/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://warframe.help/en/steelpath/operator/"/>
+    </url>
+    <url>
+        <loc>https://warframe.help/steelpath/pets/</loc>
+        <lastmod>2026-09-19</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://warframe.help/steelpath/pets/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://warframe.help/en/steelpath/pets/"/>
+    </url>
+    <url>
+        <loc>https://warframe.help/steelpath/warframes/</loc>
+        <lastmod>2026-09-19</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://warframe.help/steelpath/warframes/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://warframe.help/en/steelpath/warframes/"/>
+    </url>
+    <url>
+        <loc>https://warframe.help/steelpath/weapons/</loc>
+        <lastmod>2026-09-19</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://warframe.help/steelpath/weapons/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://warframe.help/en/steelpath/weapons/"/>
+    </url>
+    <url>
+        <loc>https://warframe.help/en/</loc>
+        <lastmod>2026-09-19</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://warframe.help/en/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://warframe.help/"/>
+    </url>
+    <url>
+        <loc>https://warframe.help/en/about/</loc>
+        <lastmod>2026-09-19</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://warframe.help/en/about/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://warframe.help/about/"/>
+    </url>
+    <url>
+        <loc>https://warframe.help/en/content/</loc>
+        <lastmod>2026-09-19</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://warframe.help/en/content/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://warframe.help/content/"/>
+    </url>
+    <url>
+        <loc>https://warframe.help/en/weekly-checklist/</loc>
+        <lastmod>2026-09-19</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://warframe.help/en/weekly-checklist/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://warframe.help/weekly-checklist/"/>
+    </url>
+    <url>
+        <loc>https://warframe.help/en/beginner/</loc>
+        <lastmod>2026-09-19</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://warframe.help/en/beginner/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://warframe.help/beginner/"/>
+    </url>
+    <url>
+        <loc>https://warframe.help/en/beginner/mastery-rank/</loc>
+        <lastmod>2026-09-19</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://warframe.help/en/beginner/mastery-rank/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://warframe.help/beginner/mastery-rank/"/>
+    </url>
+    <url>
+        <loc>https://warframe.help/en/beginner/misc/</loc>
+        <lastmod>2026-09-19</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://warframe.help/en/beginner/misc/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://warframe.help/beginner/misc/"/>
+    </url>
+    <url>
+        <loc>https://warframe.help/en/beginner/missions/</loc>
+        <lastmod>2026-09-19</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://warframe.help/en/beginner/missions/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://warframe.help/beginner/missions/"/>
+    </url>
+    <url>
+        <loc>https://warframe.help/en/beginner/pets/</loc>
+        <lastmod>2026-09-19</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://warframe.help/en/beginner/pets/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://warframe.help/beginner/pets/"/>
+    </url>
+    <url>
+        <loc>https://warframe.help/en/beginner/quests/</loc>
+        <lastmod>2026-09-19</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://warframe.help/en/beginner/quests/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://warframe.help/beginner/quests/"/>
+    </url>
+    <url>
+        <loc>https://warframe.help/en/beginner/settings/</loc>
+        <lastmod>2026-09-19</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://warframe.help/en/beginner/settings/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://warframe.help/beginner/settings/"/>
+    </url>
+    <url>
+        <loc>https://warframe.help/en/beginner/starchart/</loc>
+        <lastmod>2026-09-19</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://warframe.help/en/beginner/starchart/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://warframe.help/beginner/starchart/"/>
+    </url>
+    <url>
+        <loc>https://warframe.help/en/beginner/warframes/</loc>
+        <lastmod>2026-09-19</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://warframe.help/en/beginner/warframes/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://warframe.help/beginner/warframes/"/>
+    </url>
+    <url>
+        <loc>https://warframe.help/en/beginner/weapons/</loc>
+        <lastmod>2026-09-19</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://warframe.help/en/beginner/weapons/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://warframe.help/beginner/weapons/"/>
+    </url>
+    <url>
+        <loc>https://warframe.help/en/farm/</loc>
+        <lastmod>2026-09-19</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://warframe.help/en/farm/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://warframe.help/farm/"/>
+    </url>
+    <url>
+        <loc>https://warframe.help/en/farm/credits/</loc>
+        <lastmod>2026-09-19</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://warframe.help/en/farm/credits/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://warframe.help/farm/credits/"/>
+    </url>
+    <url>
+        <loc>https://warframe.help/en/farm/endo/</loc>
+        <lastmod>2026-09-19</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://warframe.help/en/farm/endo/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://warframe.help/farm/endo/"/>
+    </url>
+    <url>
+        <loc>https://warframe.help/en/farm/misc/</loc>
+        <lastmod>2026-09-19</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://warframe.help/en/farm/misc/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://warframe.help/farm/misc/"/>
+    </url>
+    <url>
+        <loc>https://warframe.help/en/farm/plats/</loc>
+        <lastmod>2026-09-19</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://warframe.help/en/farm/plats/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://warframe.help/farm/plats/"/>
+    </url>
+    <url>
+        <loc>https://warframe.help/en/farm/relics/</loc>
+        <lastmod>2026-09-19</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://warframe.help/en/farm/relics/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://warframe.help/farm/relics/"/>
+    </url>
+    <url>
+        <loc>https://warframe.help/en/farm/resources/</loc>
+        <lastmod>2026-09-19</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://warframe.help/en/farm/resources/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://warframe.help/farm/resources/"/>
+    </url>
+    <url>
+        <loc>https://warframe.help/en/farm/syndicates/</loc>
+        <lastmod>2026-09-19</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://warframe.help/en/farm/syndicates/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://warframe.help/farm/syndicates/"/>
+    </url>
+    <url>
+        <loc>https://warframe.help/en/farm/xp/</loc>
+        <lastmod>2026-09-19</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://warframe.help/en/farm/xp/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://warframe.help/farm/xp/"/>
+    </url>
+    <url>
+        <loc>https://warframe.help/en/mods/</loc>
+        <lastmod>2026-09-19</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://warframe.help/en/mods/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://warframe.help/mods/"/>
+    </url>
+    <url>
+        <loc>https://warframe.help/en/mods/pets/</loc>
+        <lastmod>2026-09-19</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://warframe.help/en/mods/pets/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://warframe.help/mods/pets/"/>
+    </url>
+    <url>
+        <loc>https://warframe.help/en/mods/steelpath/</loc>
+        <lastmod>2026-09-19</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://warframe.help/en/mods/steelpath/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://warframe.help/mods/steelpath/"/>
+    </url>
+    <url>
+        <loc>https://warframe.help/en/mods/warframes/</loc>
+        <lastmod>2026-09-19</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://warframe.help/en/mods/warframes/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://warframe.help/mods/warframes/"/>
+    </url>
+    <url>
+        <loc>https://warframe.help/en/mods/weapons/</loc>
+        <lastmod>2026-09-19</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://warframe.help/en/mods/weapons/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://warframe.help/mods/weapons/"/>
+    </url>
+    <url>
+        <loc>https://warframe.help/en/steelpath/</loc>
+        <lastmod>2026-09-19</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://warframe.help/en/steelpath/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://warframe.help/steelpath/"/>
+    </url>
+    <url>
+        <loc>https://warframe.help/en/steelpath/acolytes/</loc>
+        <lastmod>2026-09-19</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://warframe.help/en/steelpath/acolytes/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://warframe.help/steelpath/acolytes/"/>
+    </url>
+    <url>
+        <loc>https://warframe.help/en/steelpath/armorstrip/</loc>
+        <lastmod>2026-09-19</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://warframe.help/en/steelpath/armorstrip/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://warframe.help/steelpath/armorstrip/"/>
+    </url>
+    <url>
+        <loc>https://warframe.help/en/steelpath/misc/</loc>
+        <lastmod>2026-09-19</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://warframe.help/en/steelpath/misc/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://warframe.help/steelpath/misc/"/>
+    </url>
+    <url>
+        <loc>https://warframe.help/en/steelpath/operator/</loc>
+        <lastmod>2026-09-19</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://warframe.help/en/steelpath/operator/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://warframe.help/steelpath/operator/"/>
+    </url>
+    <url>
+        <loc>https://warframe.help/en/steelpath/pets/</loc>
+        <lastmod>2026-09-19</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://warframe.help/en/steelpath/pets/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://warframe.help/steelpath/pets/"/>
+    </url>
+    <url>
+        <loc>https://warframe.help/en/steelpath/warframes/</loc>
+        <lastmod>2026-09-19</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://warframe.help/en/steelpath/warframes/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://warframe.help/steelpath/warframes/"/>
+    </url>
+    <url>
+        <loc>https://warframe.help/en/steelpath/weapons/</loc>
+        <lastmod>2026-09-19</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://warframe.help/en/steelpath/weapons/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://warframe.help/steelpath/weapons/"/>
+    </url>
+</urlset>
