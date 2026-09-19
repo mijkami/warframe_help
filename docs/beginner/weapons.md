@@ -6,9 +6,11 @@ Liste des armes utiles / prioritaires si vous ne savez pas quoi choisir et/ou n'
 Le MR (Mastery Rank) listé correspond au niveau nécessaire pour y accéder, ce n'est pas indicatif de la puissance des armes.
 Les armes en **gras** sont un cran au-dessus des autres.
 
+Les armes de quête sont d'autant plus utiles qu'elles sont fournies avec un [catalyste](https://wiki.warframe.com/w/Orokin_Catalyst) pré-équipé doublant la capacité pour les mods (+ de place) !
+
 - MR 0 :
     - Market : [Braton](https://wiki.warframe.com/w/Braton), [Skana](https://wiki.warframe.com/w/Skana)
-    - Quête : [**Broken War**](https://wiki.warframe.com/w/Broken_War), [**Nataruk**](https://wiki.warframe.com/w/Nataruk)
+    - Quête : [**Broken War**](https://wiki.warframe.com/w/Broken_War), [**Nataruk**](https://wiki.warframe.com/w/Nataruk), [Thornbak](https://wiki.warframe.com/w/Thornbak)
     - **Kitguns** :
     - Duviri :
 - MR 1 :

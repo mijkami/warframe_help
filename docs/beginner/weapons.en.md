@@ -6,9 +6,11 @@ List of useful / priority weapons if you don't know what to choose and/or don't 
 The MR (Mastery Rank) listed corresponds to the level required to access it, it is not indicative of the weapon's power.
 Weapons in **bold** are a cut above the others.
 
+Quest weapons are especially helpful since they come with a free [catalyst](https://wiki.warframe.com/w/Orokin_Catalyst) equipped thus providing double the capacity for mods right away. More room for your mods!
+
 - MR 0:
     - Market: [Braton](https://wiki.warframe.com/w/Braton), [Skana](https://wiki.warframe.com/w/Skana)
-    - Quest: [**Broken War**](https://wiki.warframe.com/w/Broken_War), [**Nataruk**](https://wiki.warframe.com/w/Nataruk)
+    - Quest: [**Broken War**](https://wiki.warframe.com/w/Broken_War), [**Nataruk**](https://wiki.warframe.com/w/Nataruk), [Thornbak](https://wiki.warframe.com/w/Thornbak)
     - **Kitguns**:
     - Duviri:
 - MR 1:
