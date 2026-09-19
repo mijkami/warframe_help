@@ -27,7 +27,7 @@ Resource booster sources (increases resources from pickups):
 - [endless relics](https://wiki.warframe.com/w/Void_Fissure#Endless_Missions) (survival, defense...) : accumulates up to +100% resource pickups
 - [True Master's Font](https://wiki.warframe.com/w/True_Master%27s_Font), blessing from MR 30+ player in relays (go to relay to AFK / take a break and grab some blessings)
 
-Resource drop chance boosters (increases resources drops on the ground):
+Resource drop chance boosters sources (increases resources drops on the ground):
 
 - [steel path](https://wiki.warframe.com/w/The_Steel_Path) : booster +100% drop chances
 - in-game shop : [booster +100% chances de drop](https://wiki.warframe.com/w/Resource_Drop_Chance_Booster). Applies to whole group once. (if 4 players have it, it only applies +100% on enemies drops not 400%).
