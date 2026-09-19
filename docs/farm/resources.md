@@ -23,13 +23,13 @@ Source de booster de ressources (augmentent les ressources ramassées):
 - [warframes de farm](../beginner/warframes.md/#frames-de-farm)
 - [compagnons](../beginner/pets.md)
 - market : [booster de ressources](https://wiki.warframe.com/w/Resource_Booster). Coûte des plats, après les emplacements est un achat prioritaire qui vous permettra d'accélérer votre farm de ressources ET votre farm de plats (cercle virtueux). Les boosters de 30j sont les plus rentables en coût/journée effective.
-- [reliques endless](https://wiki.warframe.com/w/Void_Fissure#Endless_Missions) (survie, défense...) : cumule jusqu'à +100% chances de drops ressources
-- booster de bénédiction d'un MR 30+ en relai (aller en relai pour afk / faire une pause et choper quelques bénés)
+- [reliques endless](https://wiki.warframe.com/w/Void_Fissure#Endless_Missions) (survie, défense...) : cumule jusqu'à +100% ressources ramassées
 
 Boosters de "drop" (augmentent les ressources qui tombent au sol):
 
 - [steel path](https://wiki.warframe.com/w/The_Steel_Path) : booster +100% chances de drop 
-- market : [booster +100% chances de drop](https://wiki.warframe.com/w/Resource_Drop_Chance_Booster). S'applique à tout le groupe, une seule fois (si 4 joueurs l'ont, seulement +100% pour tout le groupe pas 400%).
+- market : [booster +100% chances de drop](https://wiki.warframe.com/w/Resource_Drop_Chance_Booster). S'applique à tout lge groupe, une seule fois (si 4 joueurs l'ont, seulement +100% pour tout le groupe pas 400%).- [reliques endless](https://wiki.warframe.com/w/Void_Fissure#Endless_Missions) (survie, défense...) : cumule jusqu'à +100% booster de chances de drop
+- [booster de bénédiction d'un MR 30+](https://wiki.warframe.com/w/True_Master%27s_Font) en relai (aller en relai pour afk / faire une pause et choper quelques bénés)
 
 Si vous n'avez aucune booster ne desespérez pas. Le plus important est de savoir qu'ils existent pour vous donner un objectif à moyen-terme de les acquérir et en profiter plus tôt.
 
