@@ -21,7 +21,7 @@ L'opérateur peut participer à la survie de la warframe :
     - via le talent de l'arbre Vazarin [Protective Sling](https://wiki.warframe.com/w/Focus/Vazarin#Protective_Sling)
     - permet de rendre invulnérables les cibles alliées (votre warframe comprise) pour 5s après avoir "dash" à travers
     - utiliser [Magus Cloud](https://wiki.warframe.com/w/Magus_Cloud) pour faciliter l'opération
-    - hameplay très particulier /répétitif & nécessite le Tektolyst débloqué pour les lvl cap (ennemis lvl 9999)
+    - gameplay très particulier /répétitif & nécessite le Tektolyst débloqué pour les lvl cap (ennemis lvl 9999)
 - **contrôle des ennemis** :
     - via l'arcane d'opếrateur [Magus Lockdown](https://wiki.warframe.com/w/Magus_Lockdown)
     - un dash opérateur permet de créer une mine (max 2) qui bloque jusqu'à 10 ennemis chacune pour 4 secondes sur 15 mètres
