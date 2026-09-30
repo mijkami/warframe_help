@@ -27,7 +27,7 @@ On distingue **4 rangs** de spectres de Tenno :
 **Limitations** :
 
 - n'utilisent pas tous les [pouvoirs](https://wiki.warframe.com/w/Specter_(Tenno)#Crafted) 
-- n'ont pas de mods équipés sur la frame ni les armes (MAIS profitent de l'aura[don de puissance](https://wiki.warframe.com/w/Power_Donation) et de l'aura de puissance de [Jade](https://wiki.warframe.com/w/Symphony_of_Mercy))
+- n'ont pas de mods équipés sur la frame ni les armes (MAIS profitent de l'aura [don de puissance](https://wiki.warframe.com/w/Power_Donation) et de l'aura de puissance de [Jade](https://wiki.warframe.com/w/Symphony_of_Mercy))
 - gèrent mal les armes à munition (on préférera les armes à batterie)
 
 !!! note "Acquisition des blueprints"
