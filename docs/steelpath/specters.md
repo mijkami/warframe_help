@@ -66,7 +66,7 @@ On distingue **4 rangs** de spectres de Tenno :
 
 On se focalisera essentiellement sur le spectre de l'[Ancien Protecteur](https://wiki.warframe.com/w/Ancient_Protector) du Nouveau Loka : il redirige vers lui 90% des dégats des alliés, objectifs de défense compris !
 
-Il donne aussi une immunité au stagger (tomber à terre) pour les alliés proches.
+Il donne aussi une immunité au stagger / knockdown (tomber à terre) pour les alliés proches.
 
 -------------
 

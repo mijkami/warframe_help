@@ -64,7 +64,7 @@ There are **4 ranks** of Tenno Specters:
 
 We will primarily focus on the [Ancient Protector](https://wiki.warframe.com/w/Ancient_Protector) specter from New Loka: it redirects 90% of damage taken by allies, including defense objectives!
 
-It also grants immunity to stagger (being knocked down) for nearby allies.
+It also grants immunity to stagger and knocked downs for nearby allies.
 
 -------------
 
