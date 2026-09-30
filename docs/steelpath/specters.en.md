@@ -20,7 +20,8 @@ There are different types of specters:
 
 There are **4 ranks** of Tenno Specters:
 
-- No power difference (it is determined by the current enemy level at summoning)
+- only one (1) can be summoned per player at a given time
+- No power difference between those (it is determined by the current enemy level at summoning)
 - Allows having 4 different specters/loadouts
 - Lower rank specters are crafted in batches (x10 per craft for rank 1, 1 per craft for rank 4): configure lower ranks for the ones you'll play frequently
 
@@ -45,7 +46,7 @@ There are **4 ranks** of Tenno Specters:
 - **Protea**: health/energy/ammo regeneration, summons her dispensary
 - **Nidus**: multiplicative power strength boost, applies his link upon summoning. Mostly used in high-level optimized static content (Defense, Arbitrations)
 - **Citrine**: survival, applies her damage reduction. Stacks with other Citrines present
-- **Cyte**: provides elemental ammo for weapons. Useful with the Ocuccor to maintain a single element permanently (the weapon recharges on each kill without changing magazine)
+- Cyte: provides elemental ammo for weapons. Useful with the Ocuccor to maintain a single element permanently (the weapon recharges on each kill without changing magazine)
 
 #### Recommended Weapons
 

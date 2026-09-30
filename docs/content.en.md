@@ -24,7 +24,7 @@ You read a line about modding, you can search "[warframe how to mod / modding](h
 
 ## Docs
 !!! note "Overframe"
-    Avoid Overframe (Ninjase's recent builds at most): anyone can put their build + there has been manipulation of (up)votes + many old builds = too variable / inconsistent quality
+    Avoid Overframe (besides Ninjase's recent builds): anyone can put their build + there has been manipulation of (up)votes + many old builds = too variable / inconsistent quality
 
 -  [wiki.warframe.com](https://wiki.warframe.com):
    - do NOT go to the "fandom" site which is no longer maintained and prioritize [wiki.warframe.com](https://wiki.warframe.com): info [here](https://old.reddit.com/r/Warframe/comments/1iemokz/the_warframe_wiki_is_officially_moving_from/), install a [Indie Wiki Buddy plugin](https://getindie.wiki/) if needed to prioritize links to the new wiki while SEO catches up

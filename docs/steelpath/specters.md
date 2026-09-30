@@ -20,7 +20,8 @@ Il y a différents spectres :
 
 On distingue **4 rangs** de spectres de Tenno :
 
-- aucune différence de puissance (elle est déterminée par le niveau des ennemis actuels à l'invocation)
+- un seul spectre de Tenno maximum par joueur peut être invoqué à la fois
+- aucune différence de puissance entre eux (elle est déterminée par le niveau des ennemis actuels à l'invocation)
 - permet d'avoir 4 spectres / loadouts différents
 - les spectres de bas rang en construisent plus à la fois (x10 par craft pour rang 1, 1 seul par craft pour rang 4) : configurer en bas rang ceux que vous allez souvent jouer
 
