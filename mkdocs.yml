@@ -19,6 +19,7 @@ nav:
     - Warframes: steelpath/warframes.md
     - Armes: steelpath/weapons.md
     - Compagnons: steelpath/pets.md
+    - Spectres: steelpath/specters.md
     - Armor-Strip: steelpath/armorstrip.md
     - Acolytes: steelpath/acolytes.md
     - Opérateur: steelpath/operator.md
@@ -99,6 +100,7 @@ plugins:
             Warframes: Warframes
             Armes: Armes
             Compagnons: Compagnons
+            Spectres: Spectres
             Carte Céleste: Carte Céleste
             Quêtes: Quêtes
             Missions: Missions
@@ -130,6 +132,7 @@ plugins:
             Warframes: Warframes
             Armes: Weapons
             Compagnons: Companions
+            Spectres: Specters
             Carte Céleste: Starchart
             Quêtes: Quests
             Missions: Missions

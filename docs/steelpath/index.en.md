@@ -26,6 +26,14 @@
 
     [:octicons-arrow-right-24: Companions](pets.md)
 
+-   :material-ghost:{ .lg .middle } __Specters__
+
+    ---
+
+    Use specters
+
+    [:octicons-arrow-right-24:  Specters](specters.md)
+
 -   :fontawesome-regular-clone:{ .lg .middle } __Mods: base__
 
     ---
