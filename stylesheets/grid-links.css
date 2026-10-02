@@ -1,0 +1,67 @@
+/* Style spécifique pour les cartes "narrow-cards" */
+div.grid.cards.narrow-cards {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 1rem;
+}
+
+div.grid.cards.narrow-cards .md-grid {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+
+div.grid.cards.narrow-cards .md-grid li {
+  flex: 1 1 450px;
+  max-width: 500px;
+  min-width: 300px;
+  margin: 0 0.5rem;
+}
+
+/* Style général pour TOUTES les cartes (y compris narrow-cards) */
+.grid.cards li {
+  position: relative;
+  border-radius: 0.5rem;
+  transition: all 0.2s ease;
+  cursor: pointer;
+}
+
+.grid.cards li a:last-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 1;
+  opacity: 0;
+}
+
+.grid.cards li:hover {
+  background-color: var(--md-default-fg-color--lightest);
+  transform: translateY(-2px);
+  box-shadow: 0 0.5em 1em -0.5em rgba(0, 0, 0, 0.1);
+}
+
+/* Cible les titres des cartes (balises <strong> dans les listes) */
+.md-grid li > p:first-of-type  {
+  font-size: 1rem !important;
+  font-weight: 600 !important;
+  display: block;
+  margin-bottom: 0.4rem !important;
+  line-height: 1.3;
+}
+
+/* Adaptation responsive pour narrow-cards */
+@media (max-width: 1024px) {
+  div.grid.cards.narrow-cards .md-grid li {
+    flex: 1 1 calc(50% - 1rem);
+  }
+}
+
+@media (max-width: 768px) {
+  div.grid.cards.narrow-cards .md-grid li {
+    flex: 1 1 100%;
+    margin: 0.5rem 0;
+  }
+}
